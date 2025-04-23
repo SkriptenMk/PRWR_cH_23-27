@@ -1,0 +1,30 @@
+---
+title: "Beurteilung"
+---
+
+Die Beurteilung der Leistungen der Schülerinnen und Schüler in diesem
+Projekt erfolgt in Form einer kombinierten Selbst- und Fremdeinschätzung.
+
+Die Schülerinnen und Schüler erstellen gegen Ende des Semesters eine
+schriftliche Selbstbeurteilung. Diese Selbstbeurteilung soll im Minimum
+die folgenden drei Fragen beantworten:
+
+* Was habe ich zum Gelingen des Projektes beigetragen?
+* Wo hätte ich mehr zum Erfolg des Teams beitragen können?
+* Wo will ich mich im Rahmen dieses Projektes im kommenden Semester verbessern?
+
+Neben den Antworten auf diese Fragen ist die Selbstbeurteilung mit einer
+Note (auf eine halbe Note genau) zu versehen. Insgesamt soll die
+Selbstbeurteilung den Umfang von einer Seite A4 nicht überschreiten.
+
+In der Fremdbeurteilung werden die folgenden Kriterien berücksichtigt:
+
+* Formelles
+  * Wurde der Abgabetermin eingehalten?
+  * Wurden die drei Fragen beantwortet?
+  * Wurde eine Note gesetzt?
+* Inhalt
+  * Ist die Selbstbeurteilung nachvollziehbar?
+  * Ist die Zielsetzung für das kommende Semester eine folgerichtige
+    Konsequenz aus den Antworten auf die ersten beiden Fragen der
+    Selbstbeurteilung? 
