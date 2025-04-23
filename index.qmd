@@ -1,0 +1,8 @@
+---
+title: "Startseite"
+---
+
+Auf dieser Seite folgen die Rahmenbedingungen für das Unternehmensprojekt der Klasse
+3cH der Kantonsschule Büelrain.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
