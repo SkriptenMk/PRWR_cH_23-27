@@ -1,0 +1,42 @@
+name: Bug Report
+description: Melden Sie einen Fehler auf der Website
+title: "[Bug]: "
+labels: ["bug"]
+assignees:
+  - Jacques-Mock-Schindler
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke, dass Sie sich die Zeit nehmen, einen Fehler zu melden!
+  
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Fehlerbeschreibung
+      description: Was ist das Problem? Beschreiben Sie den Fehler so genau wie möglich.
+      placeholder: "Beispiel: Die Navigation funktioniert nicht auf der Seite..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: schritte
+    attributes:
+      label: Schritte zum Reproduzieren
+      description: Wie kann man den Fehler nachvollziehen?
+      placeholder: |
+        1. Gehen Sie zu '...'
+        2. Klicken Sie auf '....'
+        3. Scrollen Sie zu '....'
+        4. Der Fehler erscheint
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Falls möglich, fügen Sie Screenshots hinzu
+      placeholder: Fügen Sie hier Screenshots ein
+    validations:
+      required: false

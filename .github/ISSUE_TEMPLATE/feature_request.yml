@@ -1,0 +1,29 @@
+name: Verbesserungsvorschlag
+description: Schlagen Sie eine Verbesserung für die Website vor
+title: "[Feature]: "
+labels: ["enhancement"]
+assignees:
+  - Jacques-Mock-Schindler
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für Ihren Verbesserungsvorschlag!
+  
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Ihr Vorschlag
+      description: Beschreiben Sie Ihre Idee für eine Verbesserung
+      placeholder: "Beispiel: Es wäre hilfreich, wenn..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: grund
+    attributes:
+      label: Begründung
+      description: Warum wäre diese Verbesserung nützlich?
+      placeholder: "Diese Funktion würde helfen bei..."
+    validations:
+      required: true
