@@ -1,0 +1,48 @@
+---
+title: "Anleitung für Quarto Wetsites"
+---
+
+Die folgende Anleitung basiert auf der
+[Quarto-Dokumentation](https://quarto.org/docs/websites/). Die Anleitung
+führt Schritt für Schritt durch das Erstellen und die Publikation einer
+Quarto-Website.
+
+## Erforderliche Software
+
+Um eine Quarto-Website zu erstellen, muss Quarto installiert sein. Für
+die Bearbeitung der Inhalte der Website wird ein Texteditor benötigt. Im
+folgenden wird die Installation von Quarto und Visual Studio Code
+beschrieben.
+
+### Quarto
+
+Quarto steht für Windows, Mac und Linux zur Verfügung. Quarto kann von
+der Quarto-Website heruntergeladen werden:
+[https://quarto.org/docs/download/](https://quarto.org/docs/download/).
+Nach dem
+Download kann Quarto durch Doppelklick auf die heruntergeladene Datei
+installiert werden. Die anschliessende Installation erfolgt menügeführt
+und benötigt keine besonderen Kenntnisse. Die voreingestellten Optionen
+sind sinnvoll gesetzt und können übernommen werden.
+
+Die Installation kann überprüft werden, indem in einem Terminal
+(Windows: Eingabeaufforderung, Mac: Terminal) der Befehl 
+
+```bash
+quarto --version
+```
+eingegeben wird. Wenn Quarto korrekt installiert ist, wird die Version
+angezeigt.
+
+### Visual Studio Code
+
+Die Inhalte der Website können in einem beliebigen Texteditor erstellt
+werden. Allerdings ist es sinnvoll, einen Editor zu verwenden, der die
+Arbeit an einem Quarto-Projekt unterstützt. Für die Arbeit auf einem
+Windows-Computer wird der Editor [Visual Studio
+Code](https://code.visualstudio.com/) empfohlen.
+
+Die Installation von Visual Studio Code erfolgt ebenfalls durch
+Doppelklick auf die heruntergeladene Datei. Ob die Installation
+erfolgreich war, kann überprüft werden, indem Visual Studio Code
+gestartet wird.

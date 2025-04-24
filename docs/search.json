@@ -19,5 +19,19 @@
     "title": "Beurteilung",
     "section": "",
     "text": "Die Beurteilung der Leistungen der Schülerinnen und Schüler in diesem Projekt erfolgt in Form einer kombinierten Selbst- und Fremdeinschätzung.\nDie Schülerinnen und Schüler erstellen gegen Ende des Semesters eine schriftliche Selbstbeurteilung. Diese Selbstbeurteilung soll im Minimum die folgenden drei Fragen beantworten:\n\nWas habe ich zum Gelingen des Projektes beigetragen?\nWo hätte ich mehr zum Erfolg des Teams beitragen können?\nWo will ich mich im Rahmen dieses Projektes im kommenden Semester verbessern?\n\nNeben den Antworten auf diese Fragen ist die Selbstbeurteilung mit einer Note (auf eine halbe Note genau) zu versehen. Insgesamt soll die Selbstbeurteilung den Umfang von einer Seite A4 nicht überschreiten.\nIn der Fremdbeurteilung werden die folgenden Kriterien berücksichtigt:\n\nFormelles\n\nWurde der Abgabetermin eingehalten?\nWurden die drei Fragen beantwortet?\nWurde eine Note gesetzt?\n\nInhalt\n\nIst die Selbstbeurteilung nachvollziehbar?\nIst die Zielsetzung für das kommende Semester eine folgerichtige Konsequenz aus den Antworten auf die ersten beiden Fragen der Selbstbeurteilung?\n\n\nDie Note für dieses Stadium des Projektes ergibt sich aus der Fremdbeurteilung."
+  },
+  {
+    "objectID": "files/anleitung.html",
+    "href": "files/anleitung.html",
+    "title": "Anleitung für Quarto Wetsites",
+    "section": "",
+    "text": "Die folgende Anleitung basiert auf der Quarto-Dokumentation. Die Anleitung führt Schritt für Schritt durch das Erstellen und die Publikation einer Quarto-Website."
+  },
+  {
+    "objectID": "files/anleitung.html#erforderliche-software",
+    "href": "files/anleitung.html#erforderliche-software",
+    "title": "Anleitung für Quarto Wetsites",
+    "section": "Erforderliche Software",
+    "text": "Erforderliche Software\nUm eine Quarto-Website zu erstellen, muss Quarto installiert sein. Für die Bearbeitung der Inhalte der Website wird ein Texteditor benötigt. Im folgenden wird die Installation von Quarto und Visual Studio Code beschrieben.\n\nQuarto\nQuarto steht für Windows, Mac und Linux zur Verfügung. Quarto kann von der Quarto-Website heruntergeladen werden: https://quarto.org/docs/download/. Nach dem Download kann Quarto durch Doppelklick auf die heruntergeladene Datei installiert werden. Die anschliessende Installation erfolgt menügeführt und benötigt keine besonderen Kenntnisse. Die voreingestellten Optionen sind sinnvoll gesetzt und können übernommen werden.\nDie Installation kann überprüft werden, indem in einem Terminal (Windows: Eingabeaufforderung, Mac: Terminal) der Befehl\nquarto --version\neingegeben wird. Wenn Quarto korrekt installiert ist, wird die Version angezeigt.\n\n\nVisual Studio Code\nDie Inhalte der Website können in einem beliebigen Texteditor erstellt werden. Allerdings ist es sinnvoll, einen Editor zu verwenden, der die Arbeit an einem Quarto-Projekt unterstützt. Für die Arbeit auf einem Windows-Computer wird der Editor Visual Studio Code empfohlen.\nDie Installation von Visual Studio Code erfolgt ebenfalls durch Doppelklick auf die heruntergeladene Datei. Ob die Installation erfolgreich war, kann überprüft werden, indem Visual Studio Code gestartet wird."
   }
 ]

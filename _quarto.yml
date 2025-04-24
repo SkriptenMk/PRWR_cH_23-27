@@ -10,6 +10,8 @@ website:
         menu: 
           - href: ./files/beurteilung.qmd
             text: Beurteilung
+          - href: ./files/anleitung.qmd
+            text: Anleitung Quarto
       - href: index.qmd
         text: Home
 
