@@ -1,0 +1,338 @@
+---
+title: "Anleitung für Quarto Wetsites"
+---
+
+Die folgende Anleitung basiert auf der
+[Quarto-Dokumentation](https://quarto.org/docs/websites/). Die Anleitung
+führt Schritt für Schritt durch das Erstellen und die Publikation einer
+Quarto-Website.
+
+## Erforderliche Software
+
+Um eine Quarto-Website zu erstellen, muss Quarto installiert sein. Für
+die Bearbeitung der Inhalte der Website wird ein Texteditor benötigt.
+Ausserdem braucht es für die Publikation der Website die
+Versionierungssoftware git. Im
+folgenden wird die Installation von Quarto, Visual Studio Code
+(Texteditor) sowie git beschrieben.
+
+### Quarto
+
+Quarto steht für Windows, Mac und Linux zur Verfügung. Quarto kann von
+der Quarto-Website heruntergeladen werden:
+[https://quarto.org/docs/download/](https://quarto.org/docs/download/).
+Nach dem
+Download kann Quarto durch Doppelklick auf die heruntergeladene Datei
+installiert werden. Die anschliessende Installation erfolgt menügeführt
+und benötigt keine besonderen Kenntnisse. Die voreingestellten Optionen
+sind sinnvoll gesetzt und können übernommen werden.
+
+Die Installation kann überprüft werden, indem in einem Terminal
+(Windows: Eingabeaufforderung, Mac: Terminal) der Befehl 
+
+```bash
+quarto --version
+```
+eingegeben wird. Wenn Quarto korrekt installiert ist, wird die Version
+angezeigt.
+
+### Visual Studio Code
+
+Die Inhalte der Website können in einem beliebigen Texteditor erstellt
+werden. Allerdings ist es sinnvoll, einen Editor zu verwenden, der die
+Arbeit an einem Quarto-Projekt unterstützt. Für die Arbeit auf einem
+Windows-Computer wird der Editor [Visual Studio
+Code](https://code.visualstudio.com/) empfohlen.
+
+Die Installation von Visual Studio Code erfolgt ebenfalls durch
+Doppelklick auf die heruntergeladene Datei. Ob die Installation
+erfolgreich war, kann überprüft werden, indem Visual Studio Code
+gestartet wird.
+
+### git
+
+git ist eine Software zur Versionierung von Dateien. Gleichzeitig dient
+sie der Kommunikation zwischen dem Computer und dem der Plattform, auf
+welcher die Website veröffentlicht werden soll. Als Nebeneffekt kann git
+auch für die Zusammenarbeit an einem Website-Projekt verwendet werden.
+
+Auch die Installation von git erfolgt durch Download des Installationspakets
+([https://git-scm.com/downloads](https://git-scm.com/downloads)). Nach
+dem Download kann git durch Doppelklick auf die heruntergeladene
+Datei installiert werden. Die Installation kann durch den Befehl
+
+```bash
+git --version
+```
+in einem Terminal überprüft werden. Wenn git korrekt installiert ist, wird
+die Version angezeigt. 
+
+## Publikationsplattform
+
+Eine Quarto-Website kann auf verschiedenen Plattformen veröffentlicht
+werden. Die 
+[Anleitung für Quarto](https://quarto.org/docs/publishing/)
+beschreibt die verschiedenen Möglichkeiten. Die KBW verfügt über einen
+GitHub-Education-Account. Entsprechend wird hier die Publikation auf
+GitHub beschrieben.
+
+Um mit GitHub arbeiten zu können, muss ein GitHub-Account erstellt
+werden. Die Anmeldung erfolgt über die Website von
+[GitHub](https://github.com/)
+(Sign up oben rechts auf der Website). Die Anmeldung ist kostenlos.
+Damit die alle Funktionen genutzt werden können, muss der Account mit
+der E-Mail-Adresse der KBW erstellt werden.
+
+Nach dem Erstellen des Accounts kann git konfiguriert werden. 
+Dazu sind die folgenden Befehle in einem Terminal einzugeben:
+
+```bash
+git config --global user.name "Ihr Name"
+git config --global user.email "ihre.email@stud.kbw.ch"
+```
+
+Der Name wird angezeigt, wenn eine Änderungen an der Website vorgenommen
+wird. Der Name sollte so gewählt werden, dass er nicht peinlich ist,
+wenn er von einem zukünftigen Arbeitgeber zur Kenntnis genommen wird.
+
+## Erstellen eines Quarto-Projekts
+
+Die Grundstruktur eines Quarto-Projekts kann mit dem Befehl
+
+```bash
+quarto create project website <Projektname>
+```
+
+in einem Terminal angelegt werden. Dabei ist `<Projektname>` der Name des
+Quarto-Projekts. Der Name sollte so gewählt werden, dass er einen
+Hinweis auf den Inhalt des Projekts gibt. Idealerweise werden für den
+Namen ausschliesslich ASCII-Zeichen verwendet. In einem kurzen Dialog
+muss der Titel der Website eingegeben werden. Der Titel kann vom
+Projektnamen abweichen und kann später geändert werden.  
+Der Befehl erzeugt einen neuen Ordner mit dem Namen des Projekts. Im
+Ordner finden sich die Grundlegenden Dateien für eine Quarto-Website. 
+
+Der neue Ordner kann in Visual Studio Code geöffnet werden (Rechtsklick
+\> weitere Optionen > öffnen mit Visual Studio Code).
+
+Der Ordner enthält die folgenden Dateien:
+
+* index.qmd
+* about.qmd
+* _quarto.yml
+* styles.css
+
+### index.qmd
+
+Das File `index.qmd` ist die Startseite der Website. Der Inhalt der Datei
+wird in der Website angezeigt. Die Datei kann mit Visual Studio Code bearbeitet
+werden. Die Datei ist in Markdown geschrieben. Markdown ist eine
+Auszeichnungssprache, die es ermöglicht, Text zu formatieren. Die Syntax
+von Markdown ist einfach und leicht verständlich. Die
+[Markdown-Syntax](https://www.markdownguide.org/basic-syntax/) wurde für
+das Erstellen von Websites konzipiert.  
+Die Datei weist eine Kopfzeile auf, die mit `---` beginnt und endet. In der
+Kopfzeile können Metadaten zur Website angegeben werden. In der
+erstellten Beispiel-Datei ist das der Titel der Seite.
+
+### about.qmd
+
+Die Datei `about.qmd` ist eine optionale Seite, die Informationen über
+die Website enthält. Sie kann dazu verwendet werden, eine Art
+Impressum zu erstellen. Die Datei kann aber auch gelöscht, oder
+zumindest ausgeblendet werden, wenn sie nicht benötigt wird.
+
+### _quarto.yml
+
+Die Datei `_quarto.yml` enthält die Konfiguration der Website. Für den
+Grundaufbau der Website sind keine Änderungen erforderlich. Die Datei kann
+aber bearbeitet werden, um die Website anzupassen.
+
+### styles.css
+
+Die Datei `styles.css` enthält die Formatierung der Darstellung der
+Website. Für die Grundkonzeption der Website sind auch hier keine
+Anpassungen erforderlich. Die Datei kann aber bearbeitet werden, um das
+Erscheinungsbild der Website zu ändern.
+
+## Erstellen von Inhalten
+
+Quarto-Webseiten sind so konfiguriert, dass die Datei `index.qmd` als
+Startseite der Website angezeigt wird. Um die anderen Seiten der Website
+zu erreichen, können entweder Links in der `index.qmd`-Datei gesetzt
+werden, oder die Seiten können über die von Quarto zur Verfügung
+gestellten Navigationselemente erreicht werden. Die zweite Variante ist
+vorzuziehen, entsprechend wird sie hier näher beschrieben.
+
+### Navigationselemente
+
+Die Navigationselemente werden in der Datei `_quarto.yml` definiert. Die
+Navigationselemente sind in der Datei unter dem Punkt `navbar` zu
+finden. Zum Zeitpunkt der Erstellung dieser Anleitung sind die Navigationselemente
+wie folgt definiert:
+
+```yaml
+website:
+  title: "Unternehmensprojekt 3cH (Schuljahr 2025/2026)"
+  navbar:
+    right:
+      - text: "Weitere Informationen"
+        menu: 
+          - text: "Beurteilung"
+            href: ./files/beurteilung.qmd
+          - text: "Anleitung Quarto"
+            href: ./files/anleitung.qmd
+      - text: "Home"
+        href: index.qmd
+```
+
+Unter dem Stichwort `website` findet sich die Informationen zur Struktur
+der Website. Zu beachten ist, dass die Einrückungen für diese
+Konfigurationsdatei wesentlich sind. Jede Einrückung ist zwei
+Leerzeichen tief.
+
+Der erste Eintrag `title:` nimmt den Titel entgegen, der in der Website
+angezeigt wird.  
+Der zweite Eintrag `navbar:` definiert die Navigationselemente. Das
+Schlüsselwort `right:` definiert die Position der Navigationselemente. In diesem Fall
+sind die Navigationselemente rechtsbündig in der Kopfzeile der Website
+angeordnet. Die beiden Einträge `-text:` auf der gleichen Ebene
+definieren die Reihenfolge der Navigationselemente. Der Eintrag 'Weitere
+Informationen' kommt so links vor dem Eintrag 'Home'.  
+Unter dem Text 'Weitere Informationen' sind mit dem Stichwort `menu:`
+zwei Unterseiten definiert. Diese Seiten sind in der Navigation über ein Dropdown-Menü
+erreichbar. Die Einträge `text:` definieren den Text, der im Menü angezeigt
+wird. Der Eintrag `href:` definiert den Pfad zur Datei, die angezeigt
+werden soll. Die Pfade haben den Ordner in dem die Datei `index.qmd`
+liegt als Ausgangspunkt. Das heisst, im Ordner, in dem die Datei `index.qmd`
+liegt, existiert ein Unterordner `files`, in dem die Dateien `beurteilung.qmd`
+und `anleitung.qmd` liegen. Entsprechend ist der Pfad zu den Dateien
+`./files/beurteilung.qmd` und `./files/anleitung.qmd`. Der Punkt zu
+Beginn des Pfades steht für den aktuellen Ordner.  
+Grundsätzlich spielt die Reihenfolge von
+`text:` und `href:` keine Rolle. Es ist aber sinnvoll, immer die gleiche
+Reihenfolge zu verwenden. Dies erleichtert die Lesbarkeit der
+Konfigurationsdatei.
+
+Eine ausführliche schriftliche Beschreibung der Navigationselemente
+findet sich in der Quarto-Dokumentation zur
+[Navigation](https://quarto.org/docs/websites/website-navigation.html).
+Ein entsprechendes Video Tutorial findet sich auf 
+[Youtube](https://www.youtube.com/watch?v=k65E-8PXZmA&t).
+
+### Voransicht
+
+Bevor die Website veröffentlicht wird, kann ihr Erscheinungsbild lokal
+auf dem Computer überprüft werden. Dazu kann eine sogenannte Preview
+erstellt werden. Wenn die Inhalte der Website in Visual Studio Code
+erstellt werden, lohnt es sich, die Quarto-Erweiterung zu installieren
+([Anleitung für das Installieren von
+Erweiterungen](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace#_install-an-extension)).
+Diese bietet eine Vorschau-Funktion, die es ermöglicht, die Website
+direkt in Visual Studio Code anzuzeigen. Die Vorschau kann über das
+entsprechende Symbol in der oberen rechten Ecke des Fensters gestartet
+werden. Alternativ kann die Vorschau auch im Terminal gestartet werden.
+
+```bash
+quarto preview
+```
+
+Die Vorschau wird in einem Browser geöffnet. Visual Studio Code verfügt
+über ein integriertes Terminal. Dieses kann über das
+Menü `View > Terminal` geöffnet werden.
+
+## Veröffentlichung der Website
+
+Die Veröffentlichung der Website erfordert einen weiteren
+Konfigurationsschritt. Die Datei `_quarto.yml` muss um den Eintrag
+`output:` erweitert werden.
+
+```yaml
+project:
+  type: website
+  output-dir: docs
+```
+
+Ausserdem muss im Ordner, in dem die Datei `index.qmd` liegt, eine Datei
+mit dem Namen `.nojekyll` erstellt werden. Diese Datei ist leer und hat
+keine Dateinamenserweiterung.
+
+Nach diesen Vorbereitungen kann die Website mit dem Befehl
+
+```bash
+quarto render
+```
+
+erstellt werden. Dabei werden die Dateien in den Ordner `docs`
+geschrieben. Zur Veröffentlichung der Website müssen die Dateien mit
+`git` nach GitHub hochgeladen werden. Dazu sind die folgenden
+Vorbereitungen und Befehle erforderlich: 
+
+1. Erstellen eines GitHub-Repositories
+
+   Ein GitHub-Repository (kurz Repo) ist ein Speicherort für die Website. Es wird
+   empfohlen, ein Repository mit dem gleichen Namen wie das Quarto-Projekt
+   zu erstellen. Das Repository kann auf der GitHub-Website erstellt
+   werden. Dazu muss der Button `New` in der oberen linken Ecke der
+   Website angeklickt werden. Im nächsten Schritt muss der Name des
+   Repositories eingegeben werden. Der Name sollte so gewählt werden,
+   dass er einen Hinweis auf den Inhalt des Projekts gibt. Idealerweise
+   werden für den Namen ausschliesslich ASCII-Zeichen verwendet.  
+
+   Die Sichtbarkeitseinstellungen des Repositories können auf `Public`
+   gestellt werden.
+
+2. Erstellen eines lokalen Repositories  
+   ```bash
+   git init
+   ```
+
+3. Verbinden des lokalen Repositories mit dem GitHub-Repository  
+   ```bash
+   git remote add origin <URL des Repositories>
+   ```
+
+   Die URL des Repositories findet man auf der GitHub-Website. Dazu muss
+   man im Repository auf den Button `Code` klicken. Dort wird die URL angezeigt.
+   Diese URL muss in den Befehl eingefügt werden. Die URL sieht in etwa so aus:
+   `https://github.com/VorlagenMk/250424_test.git`
+
+4. Erfassen der Änderungen  
+   ```bash
+   git add docs
+   ```
+
+5. Erstellen eines Commits  
+   
+   Ein Commit ist eine Art Schnappschuss des aktuellen Zustand des Projekts.  
+    ```bash
+    git commit -m "Erster Commit"
+    ```
+    Der Text in Anführungszeichen ist die Beschreibung des Commits. Der Text
+    sollte so gewählt werden, dass er den Inhalt des aktuellen Standes der Website wiedergibt. 
+
+6. Anpassen der GitHub-Repositories-Einstellungen (einmalig)
+   
+   Im GitHub-Repository muss unter dem Punkt `Settings` die Option `Pages` aufgerufen werden. 
+   Unter dem Punkt `Source` muss `Deploy from a branch` ausgewählt werden. 
+   Unter Dem Punkt `Branch` muss `main` ausgewählt werden. 
+   Die Option `/(root)`muss auf `/docs` geändert werden werden. 
+   Danach werden die Änderungen mit dem Button `Save` gespeichert.  
+
+   Bis die Inhalte als Website angezeigt werden, kann es einige Minuten dauern.
+   Sobald die Website verfügbar ist, wird
+   die URL angezeigt. Diese URL kann verwendet werden, um die Website zu teilen.
+
+Änderungen an der Website können mit den Befehlen 4 und 5 publiziert werden.
+Die Website wird dann aktualisiert.
+
+## Anpassung des Erscheinungsbildes
+
+Das Erscheinungsbild der Website kann durch die Verwendung von 
+[Themes](https://quarto.org/docs/output-formats/html-themes.html)
+angepasst werden. Darüber Hinaus kann das Erscheinungsbild mit CSS
+gesteuert werden. Ein Videotutorial für die Anpassung des
+Erscheinungsbildes findet sich auf  
+[Youtube: Quarto Websites 3: Customize appearance with
+CSS/SCSS](https://www.youtube.com/watch?v=pAN2Hiq0XGs&t)
+
