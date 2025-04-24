@@ -164,7 +164,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#git" id="toc-git" class="nav-link" data-scroll-target="#git">git</a></li>
   </ul></li>
   <li><a href="#publikationsplattform" id="toc-publikationsplattform" class="nav-link" data-scroll-target="#publikationsplattform">Publikationsplattform</a></li>
-  <li><a href="#erstellen-eines-quarto-projekts" id="toc-erstellen-eines-quarto-projekts" class="nav-link" data-scroll-target="#erstellen-eines-quarto-projekts">Erstellen eines Quarto-Projekts</a></li>
+  <li><a href="#erstellen-eines-quarto-projekts" id="toc-erstellen-eines-quarto-projekts" class="nav-link" data-scroll-target="#erstellen-eines-quarto-projekts">Erstellen eines Quarto-Projekts</a>
+  <ul class="collapse">
+  <li><a href="#index.qmd" id="toc-index.qmd" class="nav-link" data-scroll-target="#index.qmd">index.qmd</a></li>
+  <li><a href="#quarto.yml" id="toc-quarto.yml" class="nav-link" data-scroll-target="#quarto.yml">_quarto.yml</a></li>
+  <li><a href="#styles.css" id="toc-styles.css" class="nav-link" data-scroll-target="#styles.css">styles.css</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -229,8 +234,29 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> create project website <span class="op">&lt;</span>Projektname<span class="op">&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>in einem Terminal angelegt werden. Dabei ist <code>&lt;Projektname&gt;</code> der Name des Quarto-Projekts. Der Name sollte so gewählt werden, dass er einen Hinweis auf den Inhalt des Projekts gibt. Idealerweise werden für den Namen ausschliesslich ASCII-Zeichen verwendet. In einem kurzen Dialog muss der Titel der Website eingegeben werden. Der Titel kann vom Projektnamen abweichen und kann später geändert werden.<br>
 Der Befehl erzeugt einen neuen Ordner mit dem Namen des Projekts. Im Ordner finden sich die Grundlegenden Dateien für eine Quarto-Website.</p>
+<p>Der neue Ordner kann in Visual Studio Code geöffnet werden (Rechtsklick &gt; weitere Optionen &gt; öffnen mit Visual Studio Code).</p>
+<p>Der Ordner enthält die folgenden Dateien:</p>
+<ul>
+<li>index.qmd</li>
+<li>about.qmd</li>
+<li>_quarto.yml</li>
+<li>styles.css</li>
+</ul>
+<section id="index.qmd" class="level3">
+<h3 class="anchored" data-anchor-id="index.qmd">index.qmd</h3>
+<p>Das File <code>index.qmd</code> ist die Startseite der Website. Der Inhalt der Datei wird in der Website angezeigt. Die Datei kann mit Visual Studio Code bearbeitet werden. Die Datei ist in Markdown geschrieben. Markdown ist eine Auszeichnungssprache, die es ermöglicht, Text zu formatieren. Die Syntax von Markdown ist einfach und leicht verständlich. Die <a href="https://www.markdownguide.org/basic-syntax/">Markdown-Syntax</a> wurde für das Erstellen von Websites konzipiert.<br>
+Die Datei weist eine Kopfzeile auf, die mit <code>---</code> beginnt und endet. In der Kopfzeile können Metadaten zur Website angegeben werden. In der erstellten Beispiel-Datei ist das der Titel der Seite.</p>
+</section>
+<section id="quarto.yml" class="level3">
+<h3 class="anchored" data-anchor-id="quarto.yml">_quarto.yml</h3>
+<p>Die Datei <code>_quarto.yml</code> enthält die Konfiguration der Website. Für den Grundaufbau der Website sind keine Änderungen erforderlich. Die Datei kann aber bearbeitet werden, um die Website anzupassen.</p>
+</section>
+<section id="styles.css" class="level3">
+<h3 class="anchored" data-anchor-id="styles.css">styles.css</h3>
+<p>Die Datei <code>styles.css</code> enthält die Formatierung der Darstellung der Website. Für die Grundkonzeption der Website sind auch hier keine Anpassungen erforderlich. Die Datei kann aber bearbeitet werden, um das Erscheinungsbild der Website zu ändern.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

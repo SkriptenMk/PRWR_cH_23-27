@@ -111,3 +111,39 @@ muss der Titel der Website eingegeben werden. Der Titel kann vom
 Projektnamen abweichen und kann später geändert werden.  
 Der Befehl erzeugt einen neuen Ordner mit dem Namen des Projekts. Im
 Ordner finden sich die Grundlegenden Dateien für eine Quarto-Website. 
+
+Der neue Ordner kann in Visual Studio Code geöffnet werden (Rechtsklick
+\> weitere Optionen > öffnen mit Visual Studio Code).
+
+Der Ordner enthält die folgenden Dateien:
+
+* index.qmd
+* about.qmd
+* _quarto.yml
+* styles.css
+
+### index.qmd
+
+Das File `index.qmd` ist die Startseite der Website. Der Inhalt der Datei
+wird in der Website angezeigt. Die Datei kann mit Visual Studio Code bearbeitet
+werden. Die Datei ist in Markdown geschrieben. Markdown ist eine
+Auszeichnungssprache, die es ermöglicht, Text zu formatieren. Die Syntax
+von Markdown ist einfach und leicht verständlich. Die
+[Markdown-Syntax](https://www.markdownguide.org/basic-syntax/) wurde für
+das Erstellen von Websites konzipiert.  
+Die Datei weist eine Kopfzeile auf, die mit `---` beginnt und endet. In der
+Kopfzeile können Metadaten zur Website angegeben werden. In der
+erstellten Beispiel-Datei ist das der Titel der Seite.
+
+### _quarto.yml
+
+Die Datei `_quarto.yml` enthält die Konfiguration der Website. Für den
+Grundaufbau der Website sind keine Änderungen erforderlich. Die Datei kann
+aber bearbeitet werden, um die Website anzupassen.
+
+### styles.css
+
+Die Datei `styles.css` enthält die Formatierung der Darstellung der
+Website. Für die Grundkonzeption der Website sind auch hier keine
+Anpassungen erforderlich. Die Datei kann aber bearbeitet werden, um das
+Erscheinungsbild der Website zu ändern.
