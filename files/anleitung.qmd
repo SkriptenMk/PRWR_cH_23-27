@@ -300,7 +300,7 @@ Vorbereitungen und Befehle erforderlich:
 4. Erfassen der Änderungen  
    ```bash
    git add docs
-```
+   ```
 
 5. Erstellen eines Commits  
    
@@ -325,4 +325,14 @@ Vorbereitungen und Befehle erforderlich:
 
 Änderungen an der Website können mit den Befehlen 4 und 5 publiziert werden.
 Die Website wird dann aktualisiert.
+
+## Anpassung des Erscheinungsbildes
+
+Das Erscheinungsbild der Website kann durch die Verwendung von 
+[Themes](https://quarto.org/docs/output-formats/html-themes.html)
+angepasst werden. Darüber Hinaus kann das Erscheinungsbild mit CSS
+gesteuert werden. Ein Videotutorial für die Anpassung des
+Erscheinungsbildes findet sich auf  
+[Youtube: Quarto Websites 3: Customize appearance with
+CSS/SCSS](https://www.youtube.com/watch?v=pAN2Hiq0XGs&t)
 
