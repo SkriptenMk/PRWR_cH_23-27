@@ -10,9 +10,11 @@ Quarto-Website.
 ## Erforderliche Software
 
 Um eine Quarto-Website zu erstellen, muss Quarto installiert sein. Für
-die Bearbeitung der Inhalte der Website wird ein Texteditor benötigt. Im
-folgenden wird die Installation von Quarto und Visual Studio Code
-beschrieben.
+die Bearbeitung der Inhalte der Website wird ein Texteditor benötigt.
+Ausserdem braucht es für die Publikation der Website die
+Versionierungssoftware git. Im
+folgenden wird die Installation von Quarto, Visual Studio Code
+(Texteditor) sowie git beschrieben.
 
 ### Quarto
 
@@ -46,3 +48,66 @@ Die Installation von Visual Studio Code erfolgt ebenfalls durch
 Doppelklick auf die heruntergeladene Datei. Ob die Installation
 erfolgreich war, kann überprüft werden, indem Visual Studio Code
 gestartet wird.
+
+### git
+
+git ist eine Software zur Versionierung von Dateien. Gleichzeitig dient
+sie der Kommunikation zwischen dem Computer und dem der Plattform, auf
+welcher die Website veröffentlicht werden soll. Als Nebeneffekt kann git
+auch für die Zusammenarbeit an einem Website-Projekt verwendet werden.
+
+Auch die Installation von git erfolgt durch Download des Installationspakets
+([https://git-scm.com/downloads](https://git-scm.com/downloads)). Nach
+dem Download kann git durch Doppelklick auf die heruntergeladene
+Datei installiert werden. Die Installation kann durch den Befehl
+
+```bash
+git --version
+```
+in einem Terminal überprüft werden. Wenn git korrekt installiert ist, wird
+die Version angezeigt. 
+
+## Publikationsplattform
+
+Eine Quarto-Website kann auf verschiedenen Plattformen veröffentlicht
+werden. Die 
+[Anleitung für Quarto](https://quarto.org/docs/publishing/)
+beschreibt die verschiedenen Möglichkeiten. Die KBW verfügt über einen
+GitHub-Education-Account. Entsprechend wird hier die Publikation auf
+GitHub beschrieben.
+
+Um mit GitHub arbeiten zu können, muss ein GitHub-Account erstellt
+werden. Die Anmeldung erfolgt über die Website von
+[GitHub](https://github.com/)
+(Sign up oben rechts auf der Website). Die Anmeldung ist kostenlos.
+Damit die alle Funktionen genutzt werden können, muss der Account mit
+der E-Mail-Adresse der KBW erstellt werden.
+
+Nach dem Erstellen des Accounts kann git konfiguriert werden. 
+Dazu sind die folgenden Befehle in einem Terminal einzugeben:
+
+```bash
+git config --global user.name "Ihr Name"
+git config --global user.email "ihre.email@stud.kbw.ch"
+```
+
+Der Name wird angezeigt, wenn eine Änderungen an der Website vorgenommen
+wird. Der Name sollte so gewählt werden, dass er nicht peinlich ist,
+wenn er von einem zukünftigen Arbeitgeber zur Kenntnis genommen wird.
+
+## Erstellen eines Quarto-Projekts
+
+Die Grundstruktur eines Quarto-Projekts kann mit dem Befehl
+
+```bash
+quarto create project website <Projektname>
+```
+
+in einem Terminal angelegt werden. Dabei ist `<Projektname>` der Name des
+Quarto-Projekts. Der Name sollte so gewählt werden, dass er einen
+Hinweis auf den Inhalt des Projekts gibt. Idealerweise werden für den
+Namen ausschliesslich ASCII-Zeichen verwendet. In einem kurzen Dialog
+muss der Titel der Website eingegeben werden. Der Titel kann vom
+Projektnamen abweichen und kann später geändert werden.  
+Der Befehl erzeugt einen neuen Ordner mit dem Namen des Projekts. Im
+Ordner finden sich die Grundlegenden Dateien für eine Quarto-Website. 
