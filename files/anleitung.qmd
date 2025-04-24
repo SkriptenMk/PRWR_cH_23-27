@@ -239,4 +239,90 @@ quarto preview
 
 Die Vorschau wird in einem Browser geöffnet. Visual Studio Code verfügt
 über ein integriertes Terminal. Dieses kann über das
-Menü `View > Terminal` geöffnet werden .
+Menü `View > Terminal` geöffnet werden.
+
+## Veröffentlichung der Website
+
+Die Veröffentlichung der Website erfordert einen weiteren
+Konfigurationsschritt. Die Datei `_quarto.yml` muss um den Eintrag
+`output:` erweitert werden.
+
+```yaml
+project:
+  type: website
+  output-dir: docs
+```
+
+Ausserdem muss im Ordner, in dem die Datei `index.qmd` liegt, eine Datei
+mit dem Namen `.nojekyll` erstellt werden. Diese Datei ist leer und hat
+keine Dateinamenserweiterung.
+
+Nach diesen Vorbereitungen kann die Website mit dem Befehl
+
+```bash
+quarto render
+```
+
+erstellt werden. Dabei werden die Dateien in den Ordner `docs`
+geschrieben. Zur Veröffentlichung der Website müssen die Dateien mit
+`git` nach GitHub hochgeladen werden. Dazu sind die folgenden
+Vorbereitungen und Befehle erforderlich: 
+
+1. Erstellen eines GitHub-Repositories
+
+   Ein GitHub-Repository (kurz Repo) ist ein Speicherort für die Website. Es wird
+   empfohlen, ein Repository mit dem gleichen Namen wie das Quarto-Projekt
+   zu erstellen. Das Repository kann auf der GitHub-Website erstellt
+   werden. Dazu muss der Button `New` in der oberen linken Ecke der
+   Website angeklickt werden. Im nächsten Schritt muss der Name des
+   Repositories eingegeben werden. Der Name sollte so gewählt werden,
+   dass er einen Hinweis auf den Inhalt des Projekts gibt. Idealerweise
+   werden für den Namen ausschliesslich ASCII-Zeichen verwendet.  
+
+   Die Sichtbarkeitseinstellungen des Repositories können auf `Public`
+   gestellt werden.
+
+2. Erstellen eines lokalen Repositories  
+   ```bash
+   git init
+   ```
+
+3. Verbinden des lokalen Repositories mit dem GitHub-Repository  
+   ```bash
+   git remote add origin <URL des Repositories>
+   ```
+
+   Die URL des Repositories findet man auf der GitHub-Website. Dazu muss
+   man im Repository auf den Button `Code` klicken. Dort wird die URL angezeigt.
+   Diese URL muss in den Befehl eingefügt werden. Die URL sieht in etwa so aus:
+   `https://github.com/VorlagenMk/250424_test.git`
+
+4. Erfassen der Änderungen  
+   ```bash
+   git add docs
+```
+
+5. Erstellen eines Commits  
+   
+   Ein Commit ist eine Art Schnappschuss des aktuellen Zustand des Projekts.  
+    ```bash
+    git commit -m "Erster Commit"
+    ```
+    Der Text in Anführungszeichen ist die Beschreibung des Commits. Der Text
+    sollte so gewählt werden, dass er den Inhalt des aktuellen Standes der Website wiedergibt. 
+
+6. Anpassen der GitHub-Repositories-Einstellungen (einmalig)
+   
+   Im GitHub-Repository muss unter dem Punkt `Settings` die Option `Pages` aufgerufen werden. 
+   Unter dem Punkt `Source` muss `Deploy from a branch` ausgewählt werden. 
+   Unter Dem Punkt `Branch` muss `main` ausgewählt werden. 
+   Die Option `/(root)`muss auf `/docs` geändert werden werden. 
+   Danach werden die Änderungen mit dem Button `Save` gespeichert.  
+
+   Bis die Inhalte als Website angezeigt werden, kann es einige Minuten dauern.
+   Sobald die Website verfügbar ist, wird
+   die URL angezeigt. Diese URL kann verwendet werden, um die Website zu teilen.
+
+Änderungen an der Website können mit den Befehlen 4 und 5 publiziert werden.
+Die Website wird dann aktualisiert.
+

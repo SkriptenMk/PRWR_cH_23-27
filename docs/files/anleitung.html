@@ -176,6 +176,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#navigationselemente" id="toc-navigationselemente" class="nav-link" data-scroll-target="#navigationselemente">Navigationselemente</a></li>
   <li><a href="#voransicht" id="toc-voransicht" class="nav-link" data-scroll-target="#voransicht">Voransicht</a></li>
   </ul></li>
+  <li><a href="#veröffentlichung-der-website" id="toc-veröffentlichung-der-website" class="nav-link" data-scroll-target="#veröffentlichung-der-website">Veröffentlichung der Website</a></li>
   </ul>
 </nav>
     </div>
@@ -295,10 +296,40 @@ Grundsätzlich spielt die Reihenfolge von <code>text:</code> und <code>href:</co
 <h3 class="anchored" data-anchor-id="voransicht">Voransicht</h3>
 <p>Bevor die Website veröffentlicht wird, kann ihr Erscheinungsbild lokal auf dem Computer überprüft werden. Dazu kann eine sogenannte Preview erstellt werden. Wenn die Inhalte der Website in Visual Studio Code erstellt werden, lohnt es sich, die Quarto-Erweiterung zu installieren (<a href="https://code.visualstudio.com/docs/configure/extensions/extension-marketplace#_install-an-extension">Anleitung für das Installieren von Erweiterungen</a>). Diese bietet eine Vorschau-Funktion, die es ermöglicht, die Website direkt in Visual Studio Code anzuzeigen. Die Vorschau kann über das entsprechende Symbol in der oberen rechten Ecke des Fensters gestartet werden. Alternativ kann die Vorschau auch im Terminal gestartet werden.</p>
 <div class="sourceCode" id="cb6"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>Die Vorschau wird in einem Browser geöffnet.</p>
-
-
+<p>Die Vorschau wird in einem Browser geöffnet. Visual Studio Code verfügt über ein integriertes Terminal. Dieses kann über das Menü <code>View &gt; Terminal</code> geöffnet werden.</p>
 </section>
+</section>
+<section id="veröffentlichung-der-website" class="level2">
+<h2 class="anchored" data-anchor-id="veröffentlichung-der-website">Veröffentlichung der Website</h2>
+<p>Die Veröffentlichung der Website erfordert einen weiteren Konfigurationsschritt. Die Datei <code>_quarto.yml</code> muss um den Eintrag <code>output:</code> erweitert werden.</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">project</span><span class="kw">:</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">type</span><span class="kw">:</span><span class="at"> website</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">output-dir</span><span class="kw">:</span><span class="at"> docs</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Ausserdem muss im Ordner, in dem die Datei <code>index.qmd</code> liegt, eine Datei mit dem Namen <code>.nojekyll</code> erstellt werden. Diese Datei ist leer und hat keine Dateinamenserweiterung.</p>
+<p>Nach diesen Vorbereitungen kann die Website mit dem Befehl</p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>erstellt werden. Dabei werden die Dateien in den Ordner <code>docs</code> geschrieben. Zur Veröffentlichung der Website müssen die Dateien mit <code>git</code> nach GitHub hochgeladen werden. Dazu sind die folgenden Vorbereitungen und Befehle erforderlich:</p>
+<ol type="1">
+<li><p>Erstellen eines GitHub-Repositories</p>
+<p>Ein GitHub-Repository (kurz Repo) ist ein Speicherort für die Website. Es wird empfohlen, ein Repository mit dem gleichen Namen wie das Quarto-Projekt zu erstellen. Das Repository kann auf der GitHub-Website erstellt werden. Dazu muss der Button <code>New</code> in der oberen linken Ecke der Website angeklickt werden. Im nächsten Schritt muss der Name des Repositories eingegeben werden. Der Name sollte so gewählt werden, dass er einen Hinweis auf den Inhalt des Projekts gibt. Idealerweise werden für den Namen ausschliesslich ASCII-Zeichen verwendet.</p>
+<p>Die Sichtbarkeitseinstellungen des Repositories können auf <code>Public</code> gestellt werden.</p></li>
+<li><p>Erstellen eines lokalen Repositories</p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> init</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p>Verbinden des lokalen Repositories mit dem GitHub-Repository</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> remote add origin <span class="op">&lt;</span>URL des Repositories<span class="op">&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Die URL des Repositories findet man auf der GitHub-Website. Dazu muss man im Repository auf den Button <code>Code</code> klicken. Dort wird die URL angezeigt. Diese URL muss in den Befehl eingefügt werden. Die URL sieht in etwa so aus: <code>https://github.com/VorlagenMk/250424_test.git</code></p></li>
+<li><p>Erfassen der Änderungen</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add docs</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p>Erstellen eines Commits</p>
+<p>Ein Commit ist eine Art Schnappschuss des aktuellen Zustand des Projekts.<br>
+<code>bash  git commit -m "Erster Commit"</code> Der Text in Anführungszeichen ist die Beschreibung des Commits. Der Text sollte so gewählt werden, dass er den Inhalt des aktuellen Standes der Website wiedergibt.</p></li>
+<li><p>Anpassen der GitHub-Repositories-Einstellungen (einmalig)</p>
+<p>Im GitHub-Repository muss unter dem Punkt <code>Settings</code> die Option <code>Pages</code> aufgerufen werden. Unter dem Punkt <code>Source</code> muss <code>Deploy from a branch</code> ausgewählt werden. Unter Dem Punkt <code>Branch</code> muss <code>main</code> ausgewählt werden. Die Option <code>/(root)</code>muss auf <code>/docs</code> geändert werden werden. Danach werden die Änderungen mit dem Button <code>Save</code> gespeichert.</p>
+<p>Bis die Inhalte als Website angezeigt werden, kann es einige Minuten dauern. Sobald die Website verfügbar ist, wird die URL angezeigt. Diese URL kann verwendet werden, um die Website zu teilen.</p></li>
+</ol>
+<p>Änderungen an der Website können mit den Befehlen 4 und 5 publiziert werden. Die Website wird dann aktualisiert.</p>
+
+
 </section>
 
 </main> <!-- /main -->
