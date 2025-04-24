@@ -167,8 +167,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#erstellen-eines-quarto-projekts" id="toc-erstellen-eines-quarto-projekts" class="nav-link" data-scroll-target="#erstellen-eines-quarto-projekts">Erstellen eines Quarto-Projekts</a>
   <ul class="collapse">
   <li><a href="#index.qmd" id="toc-index.qmd" class="nav-link" data-scroll-target="#index.qmd">index.qmd</a></li>
+  <li><a href="#about.qmd" id="toc-about.qmd" class="nav-link" data-scroll-target="#about.qmd">about.qmd</a></li>
   <li><a href="#quarto.yml" id="toc-quarto.yml" class="nav-link" data-scroll-target="#quarto.yml">_quarto.yml</a></li>
   <li><a href="#styles.css" id="toc-styles.css" class="nav-link" data-scroll-target="#styles.css">styles.css</a></li>
+  </ul></li>
+  <li><a href="#erstellen-von-inhalten" id="toc-erstellen-von-inhalten" class="nav-link" data-scroll-target="#erstellen-von-inhalten">Erstellen von Inhalten</a>
+  <ul class="collapse">
+  <li><a href="#navigationselemente" id="toc-navigationselemente" class="nav-link" data-scroll-target="#navigationselemente">Navigationselemente</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -247,6 +252,10 @@ Der Befehl erzeugt einen neuen Ordner mit dem Namen des Projekts. Im Ordner find
 <p>Das File <code>index.qmd</code> ist die Startseite der Website. Der Inhalt der Datei wird in der Website angezeigt. Die Datei kann mit Visual Studio Code bearbeitet werden. Die Datei ist in Markdown geschrieben. Markdown ist eine Auszeichnungssprache, die es ermöglicht, Text zu formatieren. Die Syntax von Markdown ist einfach und leicht verständlich. Die <a href="https://www.markdownguide.org/basic-syntax/">Markdown-Syntax</a> wurde für das Erstellen von Websites konzipiert.<br>
 Die Datei weist eine Kopfzeile auf, die mit <code>---</code> beginnt und endet. In der Kopfzeile können Metadaten zur Website angegeben werden. In der erstellten Beispiel-Datei ist das der Titel der Seite.</p>
 </section>
+<section id="about.qmd" class="level3">
+<h3 class="anchored" data-anchor-id="about.qmd">about.qmd</h3>
+<p>Die Datei <code>about.qmd</code> ist eine optionale Seite, die Informationen über die Website enthält. Sie kann dazu verwendet werden, eine Art Impressum zu erstellen. Die Datei kann aber auch gelöscht, oder zumindest ausgeblendet werden, wenn sie nicht benötigt wird.</p>
+</section>
 <section id="quarto.yml" class="level3">
 <h3 class="anchored" data-anchor-id="quarto.yml">_quarto.yml</h3>
 <p>Die Datei <code>_quarto.yml</code> enthält die Konfiguration der Website. Für den Grundaufbau der Website sind keine Änderungen erforderlich. Die Datei kann aber bearbeitet werden, um die Website anzupassen.</p>
@@ -254,6 +263,32 @@ Die Datei weist eine Kopfzeile auf, die mit <code>---</code> beginnt und endet. 
 <section id="styles.css" class="level3">
 <h3 class="anchored" data-anchor-id="styles.css">styles.css</h3>
 <p>Die Datei <code>styles.css</code> enthält die Formatierung der Darstellung der Website. Für die Grundkonzeption der Website sind auch hier keine Anpassungen erforderlich. Die Datei kann aber bearbeitet werden, um das Erscheinungsbild der Website zu ändern.</p>
+</section>
+</section>
+<section id="erstellen-von-inhalten" class="level2">
+<h2 class="anchored" data-anchor-id="erstellen-von-inhalten">Erstellen von Inhalten</h2>
+<p>Quarto-Webseiten sind so konfiguriert, dass die Datei <code>index.qmd</code> als Startseite der Website angezeigt wird. Um die anderen Seiten der Website zu erreichen, können entweder Links in der <code>index.qmd</code>-Datei gesetzt werden, oder die Seiten können über die von Quarto zur Verfügung gestellten Navigationselemente erreicht werden. Die zweite Variante ist vorzuziehen, entsprechend wird sie hier näher beschrieben.</p>
+<section id="navigationselemente" class="level3">
+<h3 class="anchored" data-anchor-id="navigationselemente">Navigationselemente</h3>
+<p>Die Navigationselemente werden in der Datei <code>_quarto.yml</code> definiert. Die Navigationselemente sind in der Datei unter dem Punkt <code>navbar</code> zu finden. Zum Zeitpunkt der Erstellung dieser Anleitung sind die Navigationselemente wie folgt definiert:</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">website</span><span class="kw">:</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Unternehmensprojekt 3cH (Schuljahr 2025/2026)"</span></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">navbar</span><span class="kw">:</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">right</span><span class="kw">:</span></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="st">"Weitere Informationen"</span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">menu</span><span class="kw">:</span><span class="at"> </span></span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a><span class="at">          </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="st">"Beurteilung"</span></span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a><span class="at">            </span><span class="fu">href</span><span class="kw">:</span><span class="at"> ./files/beurteilung.qmd</span></span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a><span class="at">          </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="st">"Anleitung Quarto"</span></span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a><span class="at">            </span><span class="fu">href</span><span class="kw">:</span><span class="at"> ./files/anleitung.qmd</span></span>
+<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> </span><span class="st">"Home"</span></span>
+<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> index.qmd</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Unter dem Stichwort <code>website</code> findet sich die Informationen zur Struktur der Website. Zu beachten ist, dass die Einrückungen für diese Konfigurationsdatei wesentlich sind. Jede Einrückung ist zwei Leerzeichen tief.</p>
+<p>Der erste Eintrag <code>title:</code> nimmt den Titel entgegen, der in der Website angezeigt wird.<br>
+Der zweite Eintrag <code>navbar:</code> definiert die Navigationselemente. Das Schlüsselwort <code>right:</code> definiert die Position der Navigationselemente. In diesem Fall sind die Navigationselemente rechtsbündig in der Kopfzeile der Website angeordnet. Die beiden Einträge <code>-text:</code> auf der gleichen Ebene definieren die Reihenfolge der Navigationselemente. Der Eintrag ‘Weitere Informationen’ kommt so links vor dem Eintrag ‘Home’.<br>
+Unter dem Text ‘Weitere Informationen’ sind mit dem Stichwort <code>menu:</code> zwei Unterseiten definiert. Diese Seiten sind in der Navigation über ein Dropdown-Menü erreichbar. Die Einträge <code>text:</code> definieren den Text, der im Menü angezeigt wird. Der Eintrag <code>href:</code> definiert den Pfad zur Datei, die angezeigt werden soll. Die Pfade haben den Ordner in dem die Datei <code>index.qmd</code> liegt als Ausgangspunkt. Das heisst, im Ordner, in dem die Datei <code>index.qmd</code> liegt, existiert ein Unterordner <code>files</code>, in dem die Dateien <code>beurteilung.qmd</code> und <code>anleitung.qmd</code> liegen. Entsprechend ist der Pfad zu den Dateien <code>./files/beurteilung.qmd</code> und <code>./files/anleitung.qmd</code>. Der Punkt zu Beginn des Pfades steht für den aktuellen Ordner.<br>
+Grundsätzlich spielt die Reihenfolge von <code>text:</code> und <code>href:</code> keine Rolle. Es ist aber sinnvoll, immer die gleiche Reihenfolge zu verwenden. Dies erleichtert die Lesbarkeit der Konfigurationsdatei.</p>
+<p>Eine ausführliche schriftliche Beschreibung der Navigationselemente findet sich in der Quarto-Dokumentation zur <a href="https://quarto.org/docs/websites/website-navigation.html">Navigation</a>. Ein entsprechendes Video Tutorial findet sich auf <a href="https://www.youtube.com/watch?v=k65E-8PXZmA&amp;t">Youtube</a>.</p>
 
 
 </section>

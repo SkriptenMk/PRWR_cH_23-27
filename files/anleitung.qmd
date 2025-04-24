@@ -135,6 +135,13 @@ Die Datei weist eine Kopfzeile auf, die mit `---` beginnt und endet. In der
 Kopfzeile können Metadaten zur Website angegeben werden. In der
 erstellten Beispiel-Datei ist das der Titel der Seite.
 
+### about.qmd
+
+Die Datei `about.qmd` ist eine optionale Seite, die Informationen über
+die Website enthält. Sie kann dazu verwendet werden, eine Art
+Impressum zu erstellen. Die Datei kann aber auch gelöscht, oder
+zumindest ausgeblendet werden, wenn sie nicht benötigt wird.
+
 ### _quarto.yml
 
 Die Datei `_quarto.yml` enthält die Konfiguration der Website. Für den
@@ -147,3 +154,68 @@ Die Datei `styles.css` enthält die Formatierung der Darstellung der
 Website. Für die Grundkonzeption der Website sind auch hier keine
 Anpassungen erforderlich. Die Datei kann aber bearbeitet werden, um das
 Erscheinungsbild der Website zu ändern.
+
+## Erstellen von Inhalten
+
+Quarto-Webseiten sind so konfiguriert, dass die Datei `index.qmd` als
+Startseite der Website angezeigt wird. Um die anderen Seiten der Website
+zu erreichen, können entweder Links in der `index.qmd`-Datei gesetzt
+werden, oder die Seiten können über die von Quarto zur Verfügung
+gestellten Navigationselemente erreicht werden. Die zweite Variante ist
+vorzuziehen, entsprechend wird sie hier näher beschrieben.
+
+### Navigationselemente
+
+Die Navigationselemente werden in der Datei `_quarto.yml` definiert. Die
+Navigationselemente sind in der Datei unter dem Punkt `navbar` zu
+finden. Zum Zeitpunkt der Erstellung dieser Anleitung sind die Navigationselemente
+wie folgt definiert:
+
+```yaml
+website:
+  title: "Unternehmensprojekt 3cH (Schuljahr 2025/2026)"
+  navbar:
+    right:
+      - text: "Weitere Informationen"
+        menu: 
+          - text: "Beurteilung"
+            href: ./files/beurteilung.qmd
+          - text: "Anleitung Quarto"
+            href: ./files/anleitung.qmd
+      - text: "Home"
+        href: index.qmd
+```
+
+Unter dem Stichwort `website` findet sich die Informationen zur Struktur
+der Website. Zu beachten ist, dass die Einrückungen für diese
+Konfigurationsdatei wesentlich sind. Jede Einrückung ist zwei
+Leerzeichen tief.
+
+Der erste Eintrag `title:` nimmt den Titel entgegen, der in der Website
+angezeigt wird.  
+Der zweite Eintrag `navbar:` definiert die Navigationselemente. Das
+Schlüsselwort `right:` definiert die Position der Navigationselemente. In diesem Fall
+sind die Navigationselemente rechtsbündig in der Kopfzeile der Website
+angeordnet. Die beiden Einträge `-text:` auf der gleichen Ebene
+definieren die Reihenfolge der Navigationselemente. Der Eintrag 'Weitere
+Informationen' kommt so links vor dem Eintrag 'Home'.  
+Unter dem Text 'Weitere Informationen' sind mit dem Stichwort `menu:`
+zwei Unterseiten definiert. Diese Seiten sind in der Navigation über ein Dropdown-Menü
+erreichbar. Die Einträge `text:` definieren den Text, der im Menü angezeigt
+wird. Der Eintrag `href:` definiert den Pfad zur Datei, die angezeigt
+werden soll. Die Pfade haben den Ordner in dem die Datei `index.qmd`
+liegt als Ausgangspunkt. Das heisst, im Ordner, in dem die Datei `index.qmd`
+liegt, existiert ein Unterordner `files`, in dem die Dateien `beurteilung.qmd`
+und `anleitung.qmd` liegen. Entsprechend ist der Pfad zu den Dateien
+`./files/beurteilung.qmd` und `./files/anleitung.qmd`. Der Punkt zu
+Beginn des Pfades steht für den aktuellen Ordner.  
+Grundsätzlich spielt die Reihenfolge von
+`text:` und `href:` keine Rolle. Es ist aber sinnvoll, immer die gleiche
+Reihenfolge zu verwenden. Dies erleichtert die Lesbarkeit der
+Konfigurationsdatei.
+
+Eine ausführliche schriftliche Beschreibung der Navigationselemente
+findet sich in der Quarto-Dokumentation zur
+[Navigation](https://quarto.org/docs/websites/website-navigation.html).
+Ein entsprechendes Video Tutorial findet sich auf 
+[Youtube](https://www.youtube.com/watch?v=k65E-8PXZmA&t).
