@@ -6,9 +6,12 @@ website:
   title: "Unternehmensprojekt 3cH (Schuljahr 2025/2026)"
   navbar:
     right:
+      - text: "Weitere Informationen"
+        menu: 
+          - href: ./files/beurteilung.qmd
+            text: Beurteilung
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
