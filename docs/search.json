@@ -7,6 +7,55 @@
     "text": "Mit der hier dokumentierten Unterrichtseinheit sollen die Schülerinnen und Schüler der HMS an der Kantonsschule Büelrain die Gelegenheit erhalten, Praxiserfahrungen als Kaufleute zu sammeln. Vor diesem Hintergrund wurden zwei Geschäftsleitungen etabliert, welche je ein Weiterbildungsangebot in Sachen digitaler Hilfsmittel für die Sekundarschule Bülach entwickeln und durchführen.\nDie Geschäftsleitungen wurden aufgrund der von den Schülerinnen und Schülern in Gruppen erarbeiteten Business Model Canvas gebildet. Die beiden Gruppen mit den überzeugendsten Modellen wurden mit der Aufgabe der Geschäftsleitung betraut. Die anderen Schülerinnen und Schüler wurden gleichmässig den beiden Geschäftsleitungen als Mitarbeiter zugeteilt.\nAktuell arbeiten die beiden Teams unter der Führung der Geschäftsleitungen an an der Vorbereitung der geplanten Weiterbildungsangebote. Ziel dieser Sequenz ist es, dass die geplanten Angebote nach den Sommerferien 2025 der Schulleitung der Sekundarschule Bülach im Sinne einer Offerte präsentiert werden können."
   },
   {
+    "objectID": "files/auftrag.html",
+    "href": "files/auftrag.html",
+    "title": "Projektauftrag",
+    "section": "",
+    "text": "Im Quartal zwischen Frühlings- und Sommerferien 2025 geht es darum, dass die beiden Teams unter der Führung ihrer jeweiligen Geschäftsleitung die geplanten Weiterbildungsangebote soweit ausarbeiten, dass sie der Schulleitung der Sekundaschule Bülach präsentiert werden können."
+  },
+  {
+    "objectID": "files/auftrag.html#orientierung",
+    "href": "files/auftrag.html#orientierung",
+    "title": "Projektauftrag",
+    "section": "",
+    "text": "Im Quartal zwischen Frühlings- und Sommerferien 2025 geht es darum, dass die beiden Teams unter der Führung ihrer jeweiligen Geschäftsleitung die geplanten Weiterbildungsangebote soweit ausarbeiten, dass sie der Schulleitung der Sekundaschule Bülach präsentiert werden können."
+  },
+  {
+    "objectID": "files/auftrag.html#absicht",
+    "href": "files/auftrag.html#absicht",
+    "title": "Projektauftrag",
+    "section": "Absicht",
+    "text": "Absicht\nIch will, dass alle Schülerinnen und Schüler einen Beitrag zum Gelingen der Weiterbildung leisten. Ausserdem will ich, dass die Schülerinnen der beiden Geschäftsleitungen die Gelegenheit erhalten, Verantwortung zu übernehmen und Führungserfahrung zu sammeln."
+  },
+  {
+    "objectID": "files/auftrag.html#auftrag",
+    "href": "files/auftrag.html#auftrag",
+    "title": "Projektauftrag",
+    "section": "Auftrag",
+    "text": "Auftrag\nDie Geschäftsleitungen stellen sicher, dass in der zweiten Woche nach den Sommerferien 2025 ein Team für die Präsentation der Weiterbildungsangebote bereit steht."
+  },
+  {
+    "objectID": "files/auftrag.html#besondere-anordnungen",
+    "href": "files/auftrag.html#besondere-anordnungen",
+    "title": "Projektauftrag",
+    "section": "Besondere Anordnungen",
+    "text": "Besondere Anordnungen\n\nDer Zeitkredit für die Präsentation beträgt 10 Minuten (exklusive Fragen).\nIn der zweiten Woche nach den Sommerferien findet ein Probelauf der Präsentation statt.\nDie Geschäftsleitungen sind verantwortlich, dass mein Stellvertreter nach jeder Lektion schriftlich über den Stand der Arbeiten ins Bild gesetzt wird. Das Reporting umfasst die folgenden Punkte:\n\nWas wurde in der Lektion erreicht?\nWas steht als nächstes an?\nWo gibt es Probleme?\n\nDie Vorbereitungen sind so weit voranzutreiben, dass die Umsetzung des Weiterbildungsangebots unmittelbar nach der Präsentation beginnen kann."
+  },
+  {
+    "objectID": "files/auftrag.html#erreichbarkeit",
+    "href": "files/auftrag.html#erreichbarkeit",
+    "title": "Projektauftrag",
+    "section": "Erreichbarkeit",
+    "text": "Erreichbarkeit\nSie erreichen meinen Stellvertreter über das PRWR Teams."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "files/anleitung.html",
     "href": "files/anleitung.html",
     "title": "Anleitung für Quarto Wetsites",
@@ -54,13 +103,6 @@
     "title": "Anleitung für Quarto Wetsites",
     "section": "Anpassung des Erscheinungsbildes",
     "text": "Anpassung des Erscheinungsbildes\nDas Erscheinungsbild der Website kann durch die Verwendung von Themes angepasst werden. Darüber Hinaus kann das Erscheinungsbild mit CSS gesteuert werden. Ein Videotutorial für die Anpassung des Erscheinungsbildes findet sich auf\nYoutube: Quarto Websites 3: Customize appearance with CSS/SCSS"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   },
   {
     "objectID": "files/beurteilung.html",

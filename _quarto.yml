@@ -8,6 +8,8 @@ website:
     right:
       - text: "Weitere Informationen"
         menu: 
+          - text: "Projektauftrag"
+            href: ./files/auftrag.qmd
           - text: "Beurteilung"
             href: ./files/beurteilung.qmd
           - text: "Anleitung Quarto"
