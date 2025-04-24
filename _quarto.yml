@@ -14,6 +14,12 @@ website:
             href: ./files/anleitung.qmd
       - text: "Home"
         href: index.qmd
+      - icon: github
+        menu:
+          - text: "GitHub Repository"
+            href: https://github.com/SkriptenMk/PRWR_cH_23-27
+          - text: "Feedback"
+            href: https://github.com/SkriptenMk/PRWR_cH_23-27/issues
         
 format:
   html:
