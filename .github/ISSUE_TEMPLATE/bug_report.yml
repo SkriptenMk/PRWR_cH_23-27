@@ -30,7 +30,7 @@ body:
         3. Scrollen Sie zu '....'
         4. Der Fehler erscheint
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: screenshots

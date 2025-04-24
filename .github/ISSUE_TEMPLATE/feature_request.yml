@@ -26,4 +26,4 @@ body:
       description: Warum wäre diese Verbesserung nützlich?
       placeholder: "Diese Funktion würde helfen bei..."
     validations:
-      required: true
+      required: false
