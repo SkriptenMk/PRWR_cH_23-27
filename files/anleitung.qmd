@@ -219,3 +219,24 @@ findet sich in der Quarto-Dokumentation zur
 [Navigation](https://quarto.org/docs/websites/website-navigation.html).
 Ein entsprechendes Video Tutorial findet sich auf 
 [Youtube](https://www.youtube.com/watch?v=k65E-8PXZmA&t).
+
+### Voransicht
+
+Bevor die Website veröffentlicht wird, kann ihr Erscheinungsbild lokal
+auf dem Computer überprüft werden. Dazu kann eine sogenannte Preview
+erstellt werden. Wenn die Inhalte der Website in Visual Studio Code
+erstellt werden, lohnt es sich, die Quarto-Erweiterung zu installieren
+([Anleitung für das Installieren von
+Erweiterungen](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace#_install-an-extension)).
+Diese bietet eine Vorschau-Funktion, die es ermöglicht, die Website
+direkt in Visual Studio Code anzuzeigen. Die Vorschau kann über das
+entsprechende Symbol in der oberen rechten Ecke des Fensters gestartet
+werden. Alternativ kann die Vorschau auch im Terminal gestartet werden.
+
+```bash
+quarto preview
+```
+
+Die Vorschau wird in einem Browser geöffnet. Visual Studio Code verfügt
+über ein integriertes Terminal. Dieses kann über das
+Menü `View > Terminal` geöffnet werden .

@@ -174,6 +174,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#erstellen-von-inhalten" id="toc-erstellen-von-inhalten" class="nav-link" data-scroll-target="#erstellen-von-inhalten">Erstellen von Inhalten</a>
   <ul class="collapse">
   <li><a href="#navigationselemente" id="toc-navigationselemente" class="nav-link" data-scroll-target="#navigationselemente">Navigationselemente</a></li>
+  <li><a href="#voransicht" id="toc-voransicht" class="nav-link" data-scroll-target="#voransicht">Voransicht</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -289,6 +290,12 @@ Der zweite Eintrag <code>navbar:</code> definiert die Navigationselemente. Das S
 Unter dem Text ‘Weitere Informationen’ sind mit dem Stichwort <code>menu:</code> zwei Unterseiten definiert. Diese Seiten sind in der Navigation über ein Dropdown-Menü erreichbar. Die Einträge <code>text:</code> definieren den Text, der im Menü angezeigt wird. Der Eintrag <code>href:</code> definiert den Pfad zur Datei, die angezeigt werden soll. Die Pfade haben den Ordner in dem die Datei <code>index.qmd</code> liegt als Ausgangspunkt. Das heisst, im Ordner, in dem die Datei <code>index.qmd</code> liegt, existiert ein Unterordner <code>files</code>, in dem die Dateien <code>beurteilung.qmd</code> und <code>anleitung.qmd</code> liegen. Entsprechend ist der Pfad zu den Dateien <code>./files/beurteilung.qmd</code> und <code>./files/anleitung.qmd</code>. Der Punkt zu Beginn des Pfades steht für den aktuellen Ordner.<br>
 Grundsätzlich spielt die Reihenfolge von <code>text:</code> und <code>href:</code> keine Rolle. Es ist aber sinnvoll, immer die gleiche Reihenfolge zu verwenden. Dies erleichtert die Lesbarkeit der Konfigurationsdatei.</p>
 <p>Eine ausführliche schriftliche Beschreibung der Navigationselemente findet sich in der Quarto-Dokumentation zur <a href="https://quarto.org/docs/websites/website-navigation.html">Navigation</a>. Ein entsprechendes Video Tutorial findet sich auf <a href="https://www.youtube.com/watch?v=k65E-8PXZmA&amp;t">Youtube</a>.</p>
+</section>
+<section id="voransicht" class="level3">
+<h3 class="anchored" data-anchor-id="voransicht">Voransicht</h3>
+<p>Bevor die Website veröffentlicht wird, kann ihr Erscheinungsbild lokal auf dem Computer überprüft werden. Dazu kann eine sogenannte Preview erstellt werden. Wenn die Inhalte der Website in Visual Studio Code erstellt werden, lohnt es sich, die Quarto-Erweiterung zu installieren (<a href="https://code.visualstudio.com/docs/configure/extensions/extension-marketplace#_install-an-extension">Anleitung für das Installieren von Erweiterungen</a>). Diese bietet eine Vorschau-Funktion, die es ermöglicht, die Website direkt in Visual Studio Code anzuzeigen. Die Vorschau kann über das entsprechende Symbol in der oberen rechten Ecke des Fensters gestartet werden. Alternativ kann die Vorschau auch im Terminal gestartet werden.</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Die Vorschau wird in einem Browser geöffnet.</p>
 
 
 </section>
