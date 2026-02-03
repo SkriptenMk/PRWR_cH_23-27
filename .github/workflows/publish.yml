@@ -30,11 +30,11 @@ jobs:
 
       - name: Install additional LaTeX packages
         run: |
-          tlmgr install babel-german hyphen-german koma-script luatexja \
-                        selnolig microtype fontspec unicode-math lualatex-math \
-                        booktabs longtable array multirow xcolor colortbl \
-                        float caption fancyhdr geometry hyperref bookmark \
-                        etoolbox amsmath amsfonts
+          ~/bin/tlmgr install babel-german hyphen-german koma-script luatexja \
+                              selnolig microtype fontspec unicode-math lualatex-math \
+                              booktabs longtable array multirow xcolor colortbl \
+                              float caption fancyhdr geometry hyperref bookmark \
+                              etoolbox amsmath amsfonts
 
       - name: Render Quarto Book
         run: |
