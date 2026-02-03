@@ -10,34 +10,31 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-| 18.08.2025 | Marketing: ist mehr als Werbung |
-| 21.08.2025 | Marketing: Produktpolitik |
-| 25.08.2025 | Marketing: Produktlebenszyklus |
-| 28.08.2025 | Marketing: Konditionenpolitik |
-| 01.09.2025 | Marketing: Konditionenpolitik |
-| 04.09.2025 | Marketing: Kommunikationspolitik |
-| 08.09.2025 | Marketing: Kommunikationspolitik |
-| 11.09.2025 | Marketing: Werbung |
-| 15.09.2025 | Marketing: Absatzkanäle |
-| 18.09.2025 | Test |
-| 22.09.2025 | VWL: Womit befasst sich die Volkswirtschaftslehre? |
-| 25.09.2025 | VWL: Entscheide bei Knappheit |
-| 20.10.2025 | VWL: Die Nachfrage (Bedürfnisse) |
-| 23.10.2025 | VWL: Die Nachfragekurve |
-| 27.10.2025 | VWL: Verschiebungen der Nachfragekurve |
-| 30.10.2025 | VWL: Die Angebotskurve |
-| 03.11.2025 | VWL: Verschiebung der Angebotskurve |
-| 06.11.2025 | Test |
-| 10.11.2025 | VWL: Das Marktgleichgewicht |
-| 13.11.2025 | VWL: Veränderungen des Marktgleichgewichts |
-| 17.11.2025 | VWL: Die Elastizität |
-| 20.11.2025 | VWL: Die Gesamtwirtschaft |
-| 24.11.2025 | VWL: Ein einfaches makroökonomisches Konzept |
-| 27.11.2025 | VWL: Markt- oder Planwirtschaft |
-| 01.12.2025 | VWL: Preise und Effizienz |
-| 04.12.2025 | VWL: Was der Staat zum Funktionieren einer Marktwirtschaft beiträgt |
-| 08.12.2025 | VWL: Externe Effekte und die Umweltpolitik |
-| 11.12.2025 | Test |
+| 18.02.2026 | Staatsverschuldung I |
+| 20.02.2026 | Staatsverschuldung II |
+| 25.02.2026 | Staatsverschuldung III |
+| 27.02.2026 | Arbeitslosigkeit I |
+| 04.03.2026 | Arbeitslosigkeit II |
+| 06.03.2026 | Arbeitslosigkeit III |
+| 11.03.2026 | Übung und Vertiefung |
+| 13.03.2026 | LEISTUNGSNACHWEIS 1 |
+| 18.03.2026 | Aussenwirtschaft I |
+| 20.03.2026 | Aussenwirtschaft II |
+| 25.03.2026 | Aussenwirtschaft III |
+| 27.03.2026 | Wechselkurse I |
+| 01.04.2026 | Wechselkurse II |
+| 08.04.2026 | Zahlungsbilanz I |
+| 10.04.2026 | Zahlungsbilanz II |
+| 15.04.2026 | Übung Aussenwirtschaft |
+| 17.04.2026 | LEISTUNGSNACHWEIS 2 |
+| 06.05.2026 |  |
+| 08.05.2026 |  |
+| 13.05.2026 |  |
+| 15.05.2026 |  |
+| 20.05.2026 |  |
+| 22.05.2026 |  |
+| 27.05.2026 |  |
+
 
 
 
