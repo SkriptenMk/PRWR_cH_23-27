@@ -38,7 +38,8 @@ jobs:
 
       - name: Render Quarto Book
         run: |
-          quarto render --to html,pdf
+          quarto render --to html
+          quarto render --to pdf
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
