@@ -1,33 +1,34 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
-  title: "Unternehmensprojekt 3cH (Schuljahr 2025/2026)"
-  navbar:
-    right:
-      - text: "Weitere Informationen"
-        menu: 
-          - text: "Projektauftrag"
-            href: ./files/auftrag.qmd
-          - text: "Beurteilung"
-            href: ./files/beurteilung.qmd
-          - text: "Anleitung Quarto"
-            href: ./files/anleitung.qmd
-      - text: "Home"
-        href: index.qmd
-      - icon: github
-        menu:
-          - text: "GitHub Repository"
-            href: https://github.com/SkriptenMk/PRWR_cH_23-27
-          - text: "Feedback"
-            href: https://github.com/SkriptenMk/PRWR_cH_23-27/issues
-        
+lang: de-CH
+
+book:
+  title: "PrWR 3cH (Schuljahr 2025/2026)"
+  author: "Jacques Mock Schindler"
+  date: today
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - part: "Unternehmensprojekt"
+      chapters:
+        - files/einfuehrung.qmd
+        - files/auftrag.qmd
+        - files/beurteilung.qmd
+        - files/anleitung.qmd
+  repo-url: https://github.com/SkriptenMk/PRWR_cH_23-27
+  repo-actions: [issue]
+
 format:
   html:
     theme: cosmo
     css: styles.css
+  pdf:
+    pdf-engine: lualatex
+    documentclass: scrreprt
+    papersize: a4
+    lang: de-CH
     toc: true
-
-
-
+    number-sections: true
+    colorlinks: true

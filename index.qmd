@@ -1,23 +1,56 @@
----
-title: "Projekt IKT Weiterbildung für die Sek I"
----
+# Unterlagen für den PrWR-Unterricht {.unnumbered}
 
-Mit der hier dokumentierten Unterrichtseinheit sollen die Schülerinnen
-und Schüler der HMS an der Kantonsschule Büelrain die Gelegenheit
-erhalten, Praxiserfahrungen als Kaufleute zu sammeln. Vor diesem Hintergrund wurden
-zwei Geschäftsleitungen etabliert, welche je ein Weiterbildungsangebot
-in Sachen digitaler Hilfsmittel für die Sekundarschule Bülach entwickeln
-und durchführen. 
+In diesem Repository sollen ergänzende Unterlagen für das Fach PrWR in der Klasse
+3cH zusammengetragen werden.
 
-Die Geschäftsleitungen wurden aufgrund der von den Schülerinnen und
-Schülern in Gruppen erarbeiteten Business Model Canvas gebildet. Die
-beiden Gruppen mit den überzeugendsten Modellen wurden mit der Aufgabe
-der Geschäftsleitung betraut. Die anderen Schülerinnen und Schüler
-wurden gleichmässig den beiden Geschäftsleitungen als Mitarbeiter
-zugeteilt. 
+## Programm
 
-Aktuell arbeiten die beiden Teams unter der Führung der
-Geschäftsleitungen an an der Vorbereitung der geplanten
-Weiterbildungsangebote. Ziel dieser Sequenz ist es, dass die geplanten
-Angebote nach den Sommerferien 2025 der Schulleitung der Sekundarschule
-Bülach im Sinne einer Offerte präsentiert werden können.
+Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
+Änderungen kommen.
+
+| Datum | Thema |
+| ----- | ----- |
+| 18.02.2026 | Staatsverschuldung I |
+| 20.02.2026 | Staatsverschuldung II |
+| 25.02.2026 | Staatsverschuldung III |
+| 27.02.2026 | Arbeitslosigkeit I |
+| 04.03.2026 | Arbeitslosigkeit II |
+| 06.03.2026 | Arbeitslosigkeit III |
+| 11.03.2026 | Übung und Vertiefung |
+| 13.03.2026 | LEISTUNGSNACHWEIS 1 |
+| 18.03.2026 | Aussenwirtschaft I |
+| 20.03.2026 | Aussenwirtschaft II |
+| 25.03.2026 | Aussenwirtschaft III |
+| 27.03.2026 | Wechselkurse I |
+| 01.04.2026 | Wechselkurse II |
+| 08.04.2026 | Zahlungsbilanz I |
+| 10.04.2026 | Zahlungsbilanz II |
+| 15.04.2026 | Übung Aussenwirtschaft |
+| 17.04.2026 | LEISTUNGSNACHWEIS 2 |
+| 06.05.2026 |  |
+| 08.05.2026 |  |
+| 13.05.2026 |  |
+| 15.05.2026 |  |
+| 20.05.2026 |  |
+| 22.05.2026 |  |
+| 27.05.2026 |  |
+
+
+
+
+## Beurteilung
+
+Die Note wird aus dem Durchschnitt der beiden schriftlichen Prüfungen
+sowie der Benotung der mündlichen Beteiligung berechnet. Der
+Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
+10%.  
+
+Sie können Ihre Note verbessern, indem Sie konstruktive Kritik an den Unterlagen
+einbringen. Dazu erstellen Sie ein mir zugewiesenes Issue (der Zugang findet
+sich unter dem GitHub-Logo
+![](octocat_klein.png) 
+in der Kopfzeile).
+
+Falls jemand eine persönliche Besprechung wünscht, 
+<a href="https://calendar.app.google/UynTL5ttVPHhK1Hc8" target="_blank">
+kann er sich hier für eine Sprechstunde anmelden<a>.
