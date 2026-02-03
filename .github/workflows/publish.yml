@@ -24,9 +24,17 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Install TinyTeX for PDF generation
+      - name: Install TinyTeX
         run: |
           quarto install tinytex
+
+      - name: Install additional LaTeX packages
+        run: |
+          tlmgr install babel-german hyphen-german koma-script luatexja \
+                        selnolig microtype fontspec unicode-math lualatex-math \
+                        booktabs longtable array multirow xcolor colortbl \
+                        float caption fancyhdr geometry hyperref bookmark \
+                        etoolbox amsmath amsfonts
 
       - name: Render Quarto Book
         run: |
