@@ -1,9 +1,7 @@
-# Unterlagen für den WR-Unterricht
+# Unterlagen für den PrWR-Unterricht
 
-In diesem Repository sollen ergänzende Unterlagen für das Fach WR in der Klasse
-2I zusammengetragen werden. Die bisherigen Unterlagen sind
-<a href="https://wr-i-24-27.github.io/Skript/">Hier finden Sie die
-Unterlagen aus dem ersten Semester</a>.
+In diesem Repository sollen ergänzende Unterlagen für das Fach PrWR in der Klasse
+3cH zusammengetragen werden.
 
 ## Programm
 
@@ -50,12 +48,7 @@ sowie der Benotung der mündlichen Beteiligung berechnet. Der
 Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
 10%.  
 
-Ich erwarte, dass Sie auf GitHub eine kurze Zusammenfassung zu jeder Lektion
-verfassen (mindestens ein Commit pro Lektion). Im Gegenzug können Sie via
-PullRequest eine Beurteilung Ihrer Zusammenfassung verlangen. Damit können Sie
-auf die jeweils folgende Prüfung eine Punktegutschrift erhalten. Die Gutschrift
-ist allerdings auf ein Maximum von einer Note beschränkt. Ausserdem können Sie
-Ihre Note verbessern, indem Sie konstruktive Kritik an den Unterlagen
+Sie können Ihre Note verbessern, indem Sie konstruktive Kritik an den Unterlagen
 einbringen. Dazu erstellen Sie ein mir zugewiesenes Issue (der Zugang findet
 sich unter dem GitHub-Logo
 ![](octocat_klein.png) 
