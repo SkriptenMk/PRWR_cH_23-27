@@ -25,17 +25,16 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Install TinyTeX
-        run: |
-          quarto install tinytex
+        run: quarto install tinytex
 
       - name: Install additional LaTeX packages
         run: |
           export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
           tlmgr install babel-german hyphen-german koma-script luatexja \
                         selnolig microtype fontspec unicode-math lualatex-math \
-                        booktabs longtable array multirow xcolor colortbl \
+                        booktabs multirow xcolor colortbl \
                         float caption fancyhdr geometry hyperref bookmark \
-                        etoolbox amsmath amsfonts
+                        etoolbox amsmath amsfonts tools
 
       - name: Render Quarto Book
         run: |
