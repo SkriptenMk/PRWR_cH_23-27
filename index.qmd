@@ -1,4 +1,4 @@
-# Unterlagen für den PrWR-Unterricht
+# Unterlagen für den PrWR-Unterricht {.unnumbered}
 
 In diesem Repository sollen ergänzende Unterlagen für das Fach PrWR in der Klasse
 3cH zusammengetragen werden.

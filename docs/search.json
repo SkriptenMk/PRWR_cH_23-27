@@ -4,163 +4,183 @@
     "href": "index.html",
     "title": "PrWR 3cH (Schuljahr 2025/2026)",
     "section": "",
-    "text": "Mit der hier dokumentierten Unterrichtseinheit sollen die Schülerinnen und Schüler der HMS an der Kantonsschule Büelrain die Gelegenheit erhalten, Praxiserfahrungen als Kaufleute zu sammeln. Vor diesem Hintergrund wurden zwei Geschäftsleitungen etabliert, welche je ein Weiterbildungsangebot in Sachen digitaler Hilfsmittel für die Sekundarschule Bülach entwickeln und durchführen.\nDie Geschäftsleitungen wurden aufgrund der von den Schülerinnen und Schülern in Gruppen erarbeiteten Business Model Canvas gebildet. Die beiden Gruppen mit den überzeugendsten Modellen wurden mit der Aufgabe der Geschäftsleitung betraut. Die anderen Schülerinnen und Schüler wurden gleichmässig den beiden Geschäftsleitungen als Mitarbeiter zugeteilt.\nAktuell arbeiten die beiden Teams unter der Führung der Geschäftsleitungen an an der Vorbereitung der geplanten Weiterbildungsangebote. Ziel dieser Sequenz ist es, dass die geplanten Angebote nach den Sommerferien 2025 der Schulleitung der Sekundarschule Bülach im Sinne einer Offerte präsentiert werden können.",
+    "text": "Unterlagen für den PrWR-Unterricht\nIn diesem Repository sollen ergänzende Unterlagen für das Fach PrWR in der Klasse 3cH zusammengetragen werden.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Unterlagen für den Unterricht in PrWR</span>"
+      "Unterlagen für den PrWR-Unterricht"
+    ]
+  },
+  {
+    "objectID": "index.html#programm",
+    "href": "index.html#programm",
+    "title": "PrWR 3cH (Schuljahr 2025/2026)",
+    "section": "Programm",
+    "text": "Programm\nDas Programm entspricht dem aktuellen Stand der Planung. Es kann zu Änderungen kommen.\n\n\n\nDatum\nThema\n\n\n\n\n18.02.2026\nStaatsverschuldung I\n\n\n20.02.2026\nStaatsverschuldung II\n\n\n25.02.2026\nStaatsverschuldung III\n\n\n27.02.2026\nArbeitslosigkeit I\n\n\n04.03.2026\nArbeitslosigkeit II\n\n\n06.03.2026\nArbeitslosigkeit III\n\n\n11.03.2026\nÜbung und Vertiefung\n\n\n13.03.2026\nLEISTUNGSNACHWEIS 1\n\n\n18.03.2026\nAussenwirtschaft I\n\n\n20.03.2026\nAussenwirtschaft II\n\n\n25.03.2026\nAussenwirtschaft III\n\n\n27.03.2026\nWechselkurse I\n\n\n01.04.2026\nWechselkurse II\n\n\n08.04.2026\nZahlungsbilanz I\n\n\n10.04.2026\nZahlungsbilanz II\n\n\n15.04.2026\nÜbung Aussenwirtschaft\n\n\n17.04.2026\nLEISTUNGSNACHWEIS 2\n\n\n06.05.2026\n\n\n\n08.05.2026\n\n\n\n13.05.2026\n\n\n\n15.05.2026\n\n\n\n20.05.2026\n\n\n\n22.05.2026\n\n\n\n27.05.2026",
+    "crumbs": [
+      "Unterlagen für den PrWR-Unterricht"
+    ]
+  },
+  {
+    "objectID": "index.html#beurteilung",
+    "href": "index.html#beurteilung",
+    "title": "PrWR 3cH (Schuljahr 2025/2026)",
+    "section": "Beurteilung",
+    "text": "Beurteilung\nDie Note wird aus dem Durchschnitt der beiden schriftlichen Prüfungen sowie der Benotung der mündlichen Beteiligung berechnet. Der Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu 10%.\nSie können Ihre Note verbessern, indem Sie konstruktive Kritik an den Unterlagen einbringen. Dazu erstellen Sie ein mir zugewiesenes Issue (der Zugang findet sich unter dem GitHub-Logo  in der Kopfzeile).\nFalls jemand eine persönliche Besprechung wünscht,  kann er sich hier für eine Sprechstunde anmelden.",
+    "crumbs": [
+      "Unterlagen für den PrWR-Unterricht"
     ]
   },
   {
     "objectID": "files/einfuehrung.html",
     "href": "files/einfuehrung.html",
-    "title": "2  Projekt IKT Weiterbildung für die Sek I",
+    "title": "1  Projekt IKT Weiterbildung für die Sek I",
     "section": "",
     "text": "Mit der hier dokumentierten Unterrichtseinheit sollen die Schülerinnen und Schüler der HMS an der Kantonsschule Büelrain die Gelegenheit erhalten, Praxiserfahrungen als Kaufleute zu sammeln. Vor diesem Hintergrund wurden zwei Geschäftsleitungen etabliert, welche je ein Weiterbildungsangebot in Sachen digitaler Hilfsmittel für die Sekundarschule Bülach entwickeln und durchführen.\nDie Geschäftsleitungen wurden aufgrund der von den Schülerinnen und Schülern in Gruppen erarbeiteten Business Model Canvas gebildet. Die beiden Gruppen mit den überzeugendsten Modellen wurden mit der Aufgabe der Geschäftsleitung betraut. Die anderen Schülerinnen und Schüler wurden gleichmässig den beiden Geschäftsleitungen als Mitarbeiter zugeteilt.\nAktuell arbeiten die beiden Teams unter der Führung der Geschäftsleitungen an an der Vorbereitung der geplanten Weiterbildungsangebote. Ziel dieser Sequenz ist es, dass die geplanten Angebote nach den Sommerferien 2025 der Schulleitung der Sekundarschule Bülach im Sinne einer Offerte präsentiert werden können.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projekt IKT Weiterbildung für die Sek I</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Projekt IKT Weiterbildung für die Sek I</span>"
     ]
   },
   {
     "objectID": "files/auftrag.html",
     "href": "files/auftrag.html",
-    "title": "3  Projektauftrag",
+    "title": "2  Projektauftrag",
     "section": "",
-    "text": "3.1 Orientierung\nIm Quartal zwischen Frühlings- und Sommerferien 2025 geht es darum, dass die beiden Teams unter der Führung ihrer jeweiligen Geschäftsleitung die geplanten Weiterbildungsangebote soweit ausarbeiten, dass sie der Schulleitung der Sekundaschule Bülach präsentiert werden können.",
+    "text": "2.1 Orientierung\nIm Quartal zwischen Frühlings- und Sommerferien 2025 geht es darum, dass die beiden Teams unter der Führung ihrer jeweiligen Geschäftsleitung die geplanten Weiterbildungsangebote soweit ausarbeiten, dass sie der Schulleitung der Sekundaschule Bülach präsentiert werden können.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Projektauftrag</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projektauftrag</span>"
     ]
   },
   {
     "objectID": "files/auftrag.html#absicht",
     "href": "files/auftrag.html#absicht",
-    "title": "3  Projektauftrag",
-    "section": "3.2 Absicht",
-    "text": "3.2 Absicht\nIch will, dass alle Schülerinnen und Schüler einen Beitrag zum Gelingen der Weiterbildung leisten. Ausserdem will ich, dass die Schülerinnen der beiden Geschäftsleitungen die Gelegenheit erhalten, Verantwortung zu übernehmen und Führungserfahrung zu sammeln.",
+    "title": "2  Projektauftrag",
+    "section": "2.2 Absicht",
+    "text": "2.2 Absicht\nIch will, dass alle Schülerinnen und Schüler einen Beitrag zum Gelingen der Weiterbildung leisten. Ausserdem will ich, dass die Schülerinnen der beiden Geschäftsleitungen die Gelegenheit erhalten, Verantwortung zu übernehmen und Führungserfahrung zu sammeln.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Projektauftrag</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projektauftrag</span>"
     ]
   },
   {
     "objectID": "files/auftrag.html#auftrag",
     "href": "files/auftrag.html#auftrag",
-    "title": "3  Projektauftrag",
-    "section": "3.3 Auftrag",
-    "text": "3.3 Auftrag\nDie Geschäftsleitungen stellen sicher, dass in der zweiten Woche nach den Sommerferien 2025 ein Team für die Präsentation der Weiterbildungsangebote bereit steht.",
+    "title": "2  Projektauftrag",
+    "section": "2.3 Auftrag",
+    "text": "2.3 Auftrag\nDie Geschäftsleitungen stellen sicher, dass in der zweiten Woche nach den Sommerferien 2025 ein Team für die Präsentation der Weiterbildungsangebote bereit steht.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Projektauftrag</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projektauftrag</span>"
     ]
   },
   {
     "objectID": "files/auftrag.html#besondere-anordnungen",
     "href": "files/auftrag.html#besondere-anordnungen",
-    "title": "3  Projektauftrag",
-    "section": "3.4 Besondere Anordnungen",
-    "text": "3.4 Besondere Anordnungen\n\nDer Zeitkredit für die Präsentation beträgt 10 Minuten (exklusive Fragen).\nIn der zweiten Woche nach den Sommerferien findet ein Probelauf der Präsentation statt.\nDie Geschäftsleitungen sind verantwortlich, dass mein Stellvertreter nach jeder Lektion schriftlich über den Stand der Arbeiten ins Bild gesetzt wird. Das Reporting umfasst die folgenden Punkte:\n\nWas wurde in der Lektion erreicht?\nWas steht als nächstes an?\nWo gibt es Probleme?\n\nDie Vorbereitungen sind so weit voranzutreiben, dass die Umsetzung des Weiterbildungsangebots unmittelbar nach der Präsentation beginnen kann.",
+    "title": "2  Projektauftrag",
+    "section": "2.4 Besondere Anordnungen",
+    "text": "2.4 Besondere Anordnungen\n\nDer Zeitkredit für die Präsentation beträgt 10 Minuten (exklusive Fragen).\nIn der zweiten Woche nach den Sommerferien findet ein Probelauf der Präsentation statt.\nDie Geschäftsleitungen sind verantwortlich, dass mein Stellvertreter nach jeder Lektion schriftlich über den Stand der Arbeiten ins Bild gesetzt wird. Das Reporting umfasst die folgenden Punkte:\n\nWas wurde in der Lektion erreicht?\nWas steht als nächstes an?\nWo gibt es Probleme?\n\nDie Vorbereitungen sind so weit voranzutreiben, dass die Umsetzung des Weiterbildungsangebots unmittelbar nach der Präsentation beginnen kann.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Projektauftrag</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projektauftrag</span>"
     ]
   },
   {
     "objectID": "files/auftrag.html#erreichbarkeit",
     "href": "files/auftrag.html#erreichbarkeit",
-    "title": "3  Projektauftrag",
-    "section": "3.5 Erreichbarkeit",
-    "text": "3.5 Erreichbarkeit\nSie erreichen meinen Stellvertreter über das PRWR Teams.",
+    "title": "2  Projektauftrag",
+    "section": "2.5 Erreichbarkeit",
+    "text": "2.5 Erreichbarkeit\nSie erreichen meinen Stellvertreter über das PRWR Teams.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Projektauftrag</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Projektauftrag</span>"
     ]
   },
   {
     "objectID": "files/beurteilung.html",
     "href": "files/beurteilung.html",
-    "title": "4  Beurteilung",
+    "title": "3  Beurteilung",
     "section": "",
     "text": "Die Beurteilung der Leistungen der Schülerinnen und Schüler in diesem Projekt erfolgt in Form einer kombinierten Selbst- und Fremdeinschätzung.\nDie Schülerinnen und Schüler erstellen gegen Ende des Semesters eine schriftliche Selbstbeurteilung. Diese Selbstbeurteilung soll im Minimum die folgenden drei Fragen beantworten:\n\nWas habe ich zum Gelingen des Projektes beigetragen?\nWo hätte ich mehr zum Erfolg des Teams beitragen können?\nWo will ich mich im Rahmen dieses Projektes im kommenden Semester verbessern?\n\nNeben den Antworten auf diese Fragen ist die Selbstbeurteilung mit einer Note (auf eine halbe Note genau) zu versehen. Insgesamt soll die Selbstbeurteilung den Umfang von einer Seite A4 nicht überschreiten.\nIn der Fremdbeurteilung werden die folgenden Kriterien berücksichtigt:\n\nFormelles\n\nWurde der Abgabetermin eingehalten?\nWurden die drei Fragen beantwortet?\nWurde eine Note gesetzt?\n\nInhalt\n\nIst die Selbstbeurteilung nachvollziehbar?\nIst die Zielsetzung für das kommende Semester eine folgerichtige Konsequenz aus den Antworten auf die ersten beiden Fragen der Selbstbeurteilung?\n\n\nDie Note für dieses Stadium des Projektes ergibt sich aus der Fremdbeurteilung.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Beurteilung</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Beurteilung</span>"
     ]
   },
   {
     "objectID": "files/anleitung.html",
     "href": "files/anleitung.html",
-    "title": "5  Anleitung für Quarto Wetsites",
+    "title": "4  Anleitung für Quarto Wetsites",
     "section": "",
-    "text": "5.1 Erforderliche Software\nDie folgende Anleitung basiert auf der Quarto-Dokumentation. Die Anleitung führt Schritt für Schritt durch das Erstellen und die Publikation einer Quarto-Website.\nUm eine Quarto-Website zu erstellen, muss Quarto installiert sein. Für die Bearbeitung der Inhalte der Website wird ein Texteditor benötigt. Ausserdem braucht es für die Publikation der Website die Versionierungssoftware git. Im folgenden wird die Installation von Quarto, Visual Studio Code (Texteditor) sowie git beschrieben.",
+    "text": "4.1 Erforderliche Software\nDie folgende Anleitung basiert auf der Quarto-Dokumentation. Die Anleitung führt Schritt für Schritt durch das Erstellen und die Publikation einer Quarto-Website.\nUm eine Quarto-Website zu erstellen, muss Quarto installiert sein. Für die Bearbeitung der Inhalte der Website wird ein Texteditor benötigt. Ausserdem braucht es für die Publikation der Website die Versionierungssoftware git. Im folgenden wird die Installation von Quarto, Visual Studio Code (Texteditor) sowie git beschrieben.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
     ]
   },
   {
     "objectID": "files/anleitung.html#erforderliche-software",
     "href": "files/anleitung.html#erforderliche-software",
-    "title": "5  Anleitung für Quarto Wetsites",
+    "title": "4  Anleitung für Quarto Wetsites",
     "section": "",
-    "text": "5.1.1 Quarto\nQuarto steht für Windows, Mac und Linux zur Verfügung. Quarto kann von der Quarto-Website heruntergeladen werden: https://quarto.org/docs/download/. Nach dem Download kann Quarto durch Doppelklick auf die heruntergeladene Datei installiert werden. Die anschliessende Installation erfolgt menügeführt und benötigt keine besonderen Kenntnisse. Die voreingestellten Optionen sind sinnvoll gesetzt und können übernommen werden.\nDie Installation kann überprüft werden, indem in einem Terminal (Windows: Eingabeaufforderung, Mac: Terminal) der Befehl\nquarto --version\neingegeben wird. Wenn Quarto korrekt installiert ist, wird die Version angezeigt.\n\n\n5.1.2 Visual Studio Code\nDie Inhalte der Website können in einem beliebigen Texteditor erstellt werden. Allerdings ist es sinnvoll, einen Editor zu verwenden, der die Arbeit an einem Quarto-Projekt unterstützt. Für die Arbeit auf einem Windows-Computer wird der Editor Visual Studio Code empfohlen.\nDie Installation von Visual Studio Code erfolgt ebenfalls durch Doppelklick auf die heruntergeladene Datei. Ob die Installation erfolgreich war, kann überprüft werden, indem Visual Studio Code gestartet wird.\n\n\n5.1.3 git\ngit ist eine Software zur Versionierung von Dateien. Gleichzeitig dient sie der Kommunikation zwischen dem Computer und dem der Plattform, auf welcher die Website veröffentlicht werden soll. Als Nebeneffekt kann git auch für die Zusammenarbeit an einem Website-Projekt verwendet werden.\nAuch die Installation von git erfolgt durch Download des Installationspakets (https://git-scm.com/downloads). Nach dem Download kann git durch Doppelklick auf die heruntergeladene Datei installiert werden. Die Installation kann durch den Befehl\ngit --version\nin einem Terminal überprüft werden. Wenn git korrekt installiert ist, wird die Version angezeigt.",
+    "text": "4.1.1 Quarto\nQuarto steht für Windows, Mac und Linux zur Verfügung. Quarto kann von der Quarto-Website heruntergeladen werden: https://quarto.org/docs/download/. Nach dem Download kann Quarto durch Doppelklick auf die heruntergeladene Datei installiert werden. Die anschliessende Installation erfolgt menügeführt und benötigt keine besonderen Kenntnisse. Die voreingestellten Optionen sind sinnvoll gesetzt und können übernommen werden.\nDie Installation kann überprüft werden, indem in einem Terminal (Windows: Eingabeaufforderung, Mac: Terminal) der Befehl\nquarto --version\neingegeben wird. Wenn Quarto korrekt installiert ist, wird die Version angezeigt.\n\n\n4.1.2 Visual Studio Code\nDie Inhalte der Website können in einem beliebigen Texteditor erstellt werden. Allerdings ist es sinnvoll, einen Editor zu verwenden, der die Arbeit an einem Quarto-Projekt unterstützt. Für die Arbeit auf einem Windows-Computer wird der Editor Visual Studio Code empfohlen.\nDie Installation von Visual Studio Code erfolgt ebenfalls durch Doppelklick auf die heruntergeladene Datei. Ob die Installation erfolgreich war, kann überprüft werden, indem Visual Studio Code gestartet wird.\n\n\n4.1.3 git\ngit ist eine Software zur Versionierung von Dateien. Gleichzeitig dient sie der Kommunikation zwischen dem Computer und dem der Plattform, auf welcher die Website veröffentlicht werden soll. Als Nebeneffekt kann git auch für die Zusammenarbeit an einem Website-Projekt verwendet werden.\nAuch die Installation von git erfolgt durch Download des Installationspakets (https://git-scm.com/downloads). Nach dem Download kann git durch Doppelklick auf die heruntergeladene Datei installiert werden. Die Installation kann durch den Befehl\ngit --version\nin einem Terminal überprüft werden. Wenn git korrekt installiert ist, wird die Version angezeigt.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
     ]
   },
   {
     "objectID": "files/anleitung.html#publikationsplattform",
     "href": "files/anleitung.html#publikationsplattform",
-    "title": "5  Anleitung für Quarto Wetsites",
-    "section": "5.2 Publikationsplattform",
-    "text": "5.2 Publikationsplattform\nEine Quarto-Website kann auf verschiedenen Plattformen veröffentlicht werden. Die Anleitung für Quarto beschreibt die verschiedenen Möglichkeiten. Die KBW verfügt über einen GitHub-Education-Account. Entsprechend wird hier die Publikation auf GitHub beschrieben.\nUm mit GitHub arbeiten zu können, muss ein GitHub-Account erstellt werden. Die Anmeldung erfolgt über die Website von GitHub (Sign up oben rechts auf der Website). Die Anmeldung ist kostenlos. Damit die alle Funktionen genutzt werden können, muss der Account mit der E-Mail-Adresse der KBW erstellt werden.\nNach dem Erstellen des Accounts kann git konfiguriert werden. Dazu sind die folgenden Befehle in einem Terminal einzugeben:\ngit config --global user.name \"Ihr Name\"\ngit config --global user.email \"ihre.email@stud.kbw.ch\"\nDer Name wird angezeigt, wenn eine Änderungen an der Website vorgenommen wird. Der Name sollte so gewählt werden, dass er nicht peinlich ist, wenn er von einem zukünftigen Arbeitgeber zur Kenntnis genommen wird.",
+    "title": "4  Anleitung für Quarto Wetsites",
+    "section": "4.2 Publikationsplattform",
+    "text": "4.2 Publikationsplattform\nEine Quarto-Website kann auf verschiedenen Plattformen veröffentlicht werden. Die Anleitung für Quarto beschreibt die verschiedenen Möglichkeiten. Die KBW verfügt über einen GitHub-Education-Account. Entsprechend wird hier die Publikation auf GitHub beschrieben.\nUm mit GitHub arbeiten zu können, muss ein GitHub-Account erstellt werden. Die Anmeldung erfolgt über die Website von GitHub (Sign up oben rechts auf der Website). Die Anmeldung ist kostenlos. Damit die alle Funktionen genutzt werden können, muss der Account mit der E-Mail-Adresse der KBW erstellt werden.\nNach dem Erstellen des Accounts kann git konfiguriert werden. Dazu sind die folgenden Befehle in einem Terminal einzugeben:\ngit config --global user.name \"Ihr Name\"\ngit config --global user.email \"ihre.email@stud.kbw.ch\"\nDer Name wird angezeigt, wenn eine Änderungen an der Website vorgenommen wird. Der Name sollte so gewählt werden, dass er nicht peinlich ist, wenn er von einem zukünftigen Arbeitgeber zur Kenntnis genommen wird.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
     ]
   },
   {
     "objectID": "files/anleitung.html#erstellen-eines-quarto-projekts",
     "href": "files/anleitung.html#erstellen-eines-quarto-projekts",
-    "title": "5  Anleitung für Quarto Wetsites",
-    "section": "5.3 Erstellen eines Quarto-Projekts",
-    "text": "5.3 Erstellen eines Quarto-Projekts\nDie Grundstruktur eines Quarto-Projekts kann mit dem Befehl\nquarto create project website &lt;Projektname&gt;\nin einem Terminal angelegt werden. Dabei ist &lt;Projektname&gt; der Name des Quarto-Projekts. Der Name sollte so gewählt werden, dass er einen Hinweis auf den Inhalt des Projekts gibt. Idealerweise werden für den Namen ausschliesslich ASCII-Zeichen verwendet. In einem kurzen Dialog muss der Titel der Website eingegeben werden. Der Titel kann vom Projektnamen abweichen und kann später geändert werden.\nDer Befehl erzeugt einen neuen Ordner mit dem Namen des Projekts. Im Ordner finden sich die Grundlegenden Dateien für eine Quarto-Website.\nDer neue Ordner kann in Visual Studio Code geöffnet werden (Rechtsklick &gt; weitere Optionen &gt; öffnen mit Visual Studio Code).\nDer Ordner enthält die folgenden Dateien:\n\nindex.qmd\nabout.qmd\n_quarto.yml\nstyles.css\n\n\n5.3.1 index.qmd\nDas File index.qmd ist die Startseite der Website. Der Inhalt der Datei wird in der Website angezeigt. Die Datei kann mit Visual Studio Code bearbeitet werden. Die Datei ist in Markdown geschrieben. Markdown ist eine Auszeichnungssprache, die es ermöglicht, Text zu formatieren. Die Syntax von Markdown ist einfach und leicht verständlich. Die Markdown-Syntax wurde für das Erstellen von Websites konzipiert.\nDie Datei weist eine Kopfzeile auf, die mit --- beginnt und endet. In der Kopfzeile können Metadaten zur Website angegeben werden. In der erstellten Beispiel-Datei ist das der Titel der Seite.\n\n\n5.3.2 about.qmd\nDie Datei about.qmd ist eine optionale Seite, die Informationen über die Website enthält. Sie kann dazu verwendet werden, eine Art Impressum zu erstellen. Die Datei kann aber auch gelöscht, oder zumindest ausgeblendet werden, wenn sie nicht benötigt wird.\n\n\n5.3.3 _quarto.yml\nDie Datei _quarto.yml enthält die Konfiguration der Website. Für den Grundaufbau der Website sind keine Änderungen erforderlich. Die Datei kann aber bearbeitet werden, um die Website anzupassen.\n\n\n5.3.4 styles.css\nDie Datei styles.css enthält die Formatierung der Darstellung der Website. Für die Grundkonzeption der Website sind auch hier keine Anpassungen erforderlich. Die Datei kann aber bearbeitet werden, um das Erscheinungsbild der Website zu ändern.",
+    "title": "4  Anleitung für Quarto Wetsites",
+    "section": "4.3 Erstellen eines Quarto-Projekts",
+    "text": "4.3 Erstellen eines Quarto-Projekts\nDie Grundstruktur eines Quarto-Projekts kann mit dem Befehl\nquarto create project website &lt;Projektname&gt;\nin einem Terminal angelegt werden. Dabei ist &lt;Projektname&gt; der Name des Quarto-Projekts. Der Name sollte so gewählt werden, dass er einen Hinweis auf den Inhalt des Projekts gibt. Idealerweise werden für den Namen ausschliesslich ASCII-Zeichen verwendet. In einem kurzen Dialog muss der Titel der Website eingegeben werden. Der Titel kann vom Projektnamen abweichen und kann später geändert werden.\nDer Befehl erzeugt einen neuen Ordner mit dem Namen des Projekts. Im Ordner finden sich die Grundlegenden Dateien für eine Quarto-Website.\nDer neue Ordner kann in Visual Studio Code geöffnet werden (Rechtsklick &gt; weitere Optionen &gt; öffnen mit Visual Studio Code).\nDer Ordner enthält die folgenden Dateien:\n\nindex.qmd\nabout.qmd\n_quarto.yml\nstyles.css\n\n\n4.3.1 index.qmd\nDas File index.qmd ist die Startseite der Website. Der Inhalt der Datei wird in der Website angezeigt. Die Datei kann mit Visual Studio Code bearbeitet werden. Die Datei ist in Markdown geschrieben. Markdown ist eine Auszeichnungssprache, die es ermöglicht, Text zu formatieren. Die Syntax von Markdown ist einfach und leicht verständlich. Die Markdown-Syntax wurde für das Erstellen von Websites konzipiert.\nDie Datei weist eine Kopfzeile auf, die mit --- beginnt und endet. In der Kopfzeile können Metadaten zur Website angegeben werden. In der erstellten Beispiel-Datei ist das der Titel der Seite.\n\n\n4.3.2 about.qmd\nDie Datei about.qmd ist eine optionale Seite, die Informationen über die Website enthält. Sie kann dazu verwendet werden, eine Art Impressum zu erstellen. Die Datei kann aber auch gelöscht, oder zumindest ausgeblendet werden, wenn sie nicht benötigt wird.\n\n\n4.3.3 _quarto.yml\nDie Datei _quarto.yml enthält die Konfiguration der Website. Für den Grundaufbau der Website sind keine Änderungen erforderlich. Die Datei kann aber bearbeitet werden, um die Website anzupassen.\n\n\n4.3.4 styles.css\nDie Datei styles.css enthält die Formatierung der Darstellung der Website. Für die Grundkonzeption der Website sind auch hier keine Anpassungen erforderlich. Die Datei kann aber bearbeitet werden, um das Erscheinungsbild der Website zu ändern.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
     ]
   },
   {
     "objectID": "files/anleitung.html#erstellen-von-inhalten",
     "href": "files/anleitung.html#erstellen-von-inhalten",
-    "title": "5  Anleitung für Quarto Wetsites",
-    "section": "5.4 Erstellen von Inhalten",
-    "text": "5.4 Erstellen von Inhalten\nQuarto-Webseiten sind so konfiguriert, dass die Datei index.qmd als Startseite der Website angezeigt wird. Um die anderen Seiten der Website zu erreichen, können entweder Links in der index.qmd-Datei gesetzt werden, oder die Seiten können über die von Quarto zur Verfügung gestellten Navigationselemente erreicht werden. Die zweite Variante ist vorzuziehen, entsprechend wird sie hier näher beschrieben.\n\n5.4.1 Navigationselemente\nDie Navigationselemente werden in der Datei _quarto.yml definiert. Die Navigationselemente sind in der Datei unter dem Punkt navbar zu finden. Zum Zeitpunkt der Erstellung dieser Anleitung sind die Navigationselemente wie folgt definiert:\nwebsite:\n  title: \"Unternehmensprojekt 3cH (Schuljahr 2025/2026)\"\n  navbar:\n    right:\n      - text: \"Weitere Informationen\"\n        menu: \n          - text: \"Beurteilung\"\n            href: ./files/beurteilung.qmd\n          - text: \"Anleitung Quarto\"\n            href: ./files/anleitung.qmd\n      - text: \"Home\"\n        href: index.qmd\nUnter dem Stichwort website findet sich die Informationen zur Struktur der Website. Zu beachten ist, dass die Einrückungen für diese Konfigurationsdatei wesentlich sind. Jede Einrückung ist zwei Leerzeichen tief.\nDer erste Eintrag title: nimmt den Titel entgegen, der in der Website angezeigt wird.\nDer zweite Eintrag navbar: definiert die Navigationselemente. Das Schlüsselwort right: definiert die Position der Navigationselemente. In diesem Fall sind die Navigationselemente rechtsbündig in der Kopfzeile der Website angeordnet. Die beiden Einträge -text: auf der gleichen Ebene definieren die Reihenfolge der Navigationselemente. Der Eintrag ‘Weitere Informationen’ kommt so links vor dem Eintrag ‘Home’.\nUnter dem Text ‘Weitere Informationen’ sind mit dem Stichwort menu: zwei Unterseiten definiert. Diese Seiten sind in der Navigation über ein Dropdown-Menü erreichbar. Die Einträge text: definieren den Text, der im Menü angezeigt wird. Der Eintrag href: definiert den Pfad zur Datei, die angezeigt werden soll. Die Pfade haben den Ordner in dem die Datei index.qmd liegt als Ausgangspunkt. Das heisst, im Ordner, in dem die Datei index.qmd liegt, existiert ein Unterordner files, in dem die Dateien beurteilung.qmd und anleitung.qmd liegen. Entsprechend ist der Pfad zu den Dateien ./files/beurteilung.qmd und ./files/anleitung.qmd. Der Punkt zu Beginn des Pfades steht für den aktuellen Ordner.\nGrundsätzlich spielt die Reihenfolge von text: und href: keine Rolle. Es ist aber sinnvoll, immer die gleiche Reihenfolge zu verwenden. Dies erleichtert die Lesbarkeit der Konfigurationsdatei.\nEine ausführliche schriftliche Beschreibung der Navigationselemente findet sich in der Quarto-Dokumentation zur Navigation. Ein entsprechendes Video Tutorial findet sich auf Youtube.\n\n\n5.4.2 Voransicht\nBevor die Website veröffentlicht wird, kann ihr Erscheinungsbild lokal auf dem Computer überprüft werden. Dazu kann eine sogenannte Preview erstellt werden. Wenn die Inhalte der Website in Visual Studio Code erstellt werden, lohnt es sich, die Quarto-Erweiterung zu installieren (Anleitung für das Installieren von Erweiterungen). Diese bietet eine Vorschau-Funktion, die es ermöglicht, die Website direkt in Visual Studio Code anzuzeigen. Die Vorschau kann über das entsprechende Symbol in der oberen rechten Ecke des Fensters gestartet werden. Alternativ kann die Vorschau auch im Terminal gestartet werden.\nquarto preview\nDie Vorschau wird in einem Browser geöffnet. Visual Studio Code verfügt über ein integriertes Terminal. Dieses kann über das Menü View &gt; Terminal geöffnet werden.",
+    "title": "4  Anleitung für Quarto Wetsites",
+    "section": "4.4 Erstellen von Inhalten",
+    "text": "4.4 Erstellen von Inhalten\nQuarto-Webseiten sind so konfiguriert, dass die Datei index.qmd als Startseite der Website angezeigt wird. Um die anderen Seiten der Website zu erreichen, können entweder Links in der index.qmd-Datei gesetzt werden, oder die Seiten können über die von Quarto zur Verfügung gestellten Navigationselemente erreicht werden. Die zweite Variante ist vorzuziehen, entsprechend wird sie hier näher beschrieben.\n\n4.4.1 Navigationselemente\nDie Navigationselemente werden in der Datei _quarto.yml definiert. Die Navigationselemente sind in der Datei unter dem Punkt navbar zu finden. Zum Zeitpunkt der Erstellung dieser Anleitung sind die Navigationselemente wie folgt definiert:\nwebsite:\n  title: \"Unternehmensprojekt 3cH (Schuljahr 2025/2026)\"\n  navbar:\n    right:\n      - text: \"Weitere Informationen\"\n        menu: \n          - text: \"Beurteilung\"\n            href: ./files/beurteilung.qmd\n          - text: \"Anleitung Quarto\"\n            href: ./files/anleitung.qmd\n      - text: \"Home\"\n        href: index.qmd\nUnter dem Stichwort website findet sich die Informationen zur Struktur der Website. Zu beachten ist, dass die Einrückungen für diese Konfigurationsdatei wesentlich sind. Jede Einrückung ist zwei Leerzeichen tief.\nDer erste Eintrag title: nimmt den Titel entgegen, der in der Website angezeigt wird.\nDer zweite Eintrag navbar: definiert die Navigationselemente. Das Schlüsselwort right: definiert die Position der Navigationselemente. In diesem Fall sind die Navigationselemente rechtsbündig in der Kopfzeile der Website angeordnet. Die beiden Einträge -text: auf der gleichen Ebene definieren die Reihenfolge der Navigationselemente. Der Eintrag ‘Weitere Informationen’ kommt so links vor dem Eintrag ‘Home’.\nUnter dem Text ‘Weitere Informationen’ sind mit dem Stichwort menu: zwei Unterseiten definiert. Diese Seiten sind in der Navigation über ein Dropdown-Menü erreichbar. Die Einträge text: definieren den Text, der im Menü angezeigt wird. Der Eintrag href: definiert den Pfad zur Datei, die angezeigt werden soll. Die Pfade haben den Ordner in dem die Datei index.qmd liegt als Ausgangspunkt. Das heisst, im Ordner, in dem die Datei index.qmd liegt, existiert ein Unterordner files, in dem die Dateien beurteilung.qmd und anleitung.qmd liegen. Entsprechend ist der Pfad zu den Dateien ./files/beurteilung.qmd und ./files/anleitung.qmd. Der Punkt zu Beginn des Pfades steht für den aktuellen Ordner.\nGrundsätzlich spielt die Reihenfolge von text: und href: keine Rolle. Es ist aber sinnvoll, immer die gleiche Reihenfolge zu verwenden. Dies erleichtert die Lesbarkeit der Konfigurationsdatei.\nEine ausführliche schriftliche Beschreibung der Navigationselemente findet sich in der Quarto-Dokumentation zur Navigation. Ein entsprechendes Video Tutorial findet sich auf Youtube.\n\n\n4.4.2 Voransicht\nBevor die Website veröffentlicht wird, kann ihr Erscheinungsbild lokal auf dem Computer überprüft werden. Dazu kann eine sogenannte Preview erstellt werden. Wenn die Inhalte der Website in Visual Studio Code erstellt werden, lohnt es sich, die Quarto-Erweiterung zu installieren (Anleitung für das Installieren von Erweiterungen). Diese bietet eine Vorschau-Funktion, die es ermöglicht, die Website direkt in Visual Studio Code anzuzeigen. Die Vorschau kann über das entsprechende Symbol in der oberen rechten Ecke des Fensters gestartet werden. Alternativ kann die Vorschau auch im Terminal gestartet werden.\nquarto preview\nDie Vorschau wird in einem Browser geöffnet. Visual Studio Code verfügt über ein integriertes Terminal. Dieses kann über das Menü View &gt; Terminal geöffnet werden.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
     ]
   },
   {
     "objectID": "files/anleitung.html#veröffentlichung-der-website",
     "href": "files/anleitung.html#veröffentlichung-der-website",
-    "title": "5  Anleitung für Quarto Wetsites",
-    "section": "5.5 Veröffentlichung der Website",
-    "text": "5.5 Veröffentlichung der Website\nDie Veröffentlichung der Website erfordert einen weiteren Konfigurationsschritt. Die Datei _quarto.yml muss um den Eintrag output: erweitert werden.\nproject:\n  type: website\n  output-dir: docs\nAusserdem muss im Ordner, in dem die Datei index.qmd liegt, eine Datei mit dem Namen .nojekyll erstellt werden. Diese Datei ist leer und hat keine Dateinamenserweiterung.\nNach diesen Vorbereitungen kann die Website mit dem Befehl\nquarto render\nerstellt werden. Dabei werden die Dateien in den Ordner docs geschrieben. Zur Veröffentlichung der Website müssen die Dateien mit git nach GitHub hochgeladen werden. Dazu sind die folgenden Vorbereitungen und Befehle erforderlich:\n\nErstellen eines GitHub-Repositories\nEin GitHub-Repository (kurz Repo) ist ein Speicherort für die Website. Es wird empfohlen, ein Repository mit dem gleichen Namen wie das Quarto-Projekt zu erstellen. Das Repository kann auf der GitHub-Website erstellt werden. Dazu muss der Button New in der oberen linken Ecke der Website angeklickt werden. Im nächsten Schritt muss der Name des Repositories eingegeben werden. Der Name sollte so gewählt werden, dass er einen Hinweis auf den Inhalt des Projekts gibt. Idealerweise werden für den Namen ausschliesslich ASCII-Zeichen verwendet.\nDie Sichtbarkeitseinstellungen des Repositories können auf Public gestellt werden.\nErstellen eines lokalen Repositories\ngit init\nVerbinden des lokalen Repositories mit dem GitHub-Repository\ngit remote add origin &lt;URL des Repositories&gt;\nDie URL des Repositories findet man auf der GitHub-Website. Dazu muss man im Repository auf den Button Code klicken. Dort wird die URL angezeigt. Diese URL muss in den Befehl eingefügt werden. Die URL sieht in etwa so aus: https://github.com/VorlagenMk/250424_test.git\nErfassen der Änderungen\ngit add docs\nErstellen eines Commits\nEin Commit ist eine Art Schnappschuss des aktuellen Zustand des Projekts.\nbash  git commit -m \"Erster Commit\" Der Text in Anführungszeichen ist die Beschreibung des Commits. Der Text sollte so gewählt werden, dass er den Inhalt des aktuellen Standes der Website wiedergibt.\nAnpassen der GitHub-Repositories-Einstellungen (einmalig)\nIm GitHub-Repository muss unter dem Punkt Settings die Option Pages aufgerufen werden. Unter dem Punkt Source muss Deploy from a branch ausgewählt werden. Unter Dem Punkt Branch muss main ausgewählt werden. Die Option /(root)muss auf /docs geändert werden werden. Danach werden die Änderungen mit dem Button Save gespeichert.\nBis die Inhalte als Website angezeigt werden, kann es einige Minuten dauern. Sobald die Website verfügbar ist, wird die URL angezeigt. Diese URL kann verwendet werden, um die Website zu teilen.\n\nÄnderungen an der Website können mit den Befehlen 4 und 5 publiziert werden. Die Website wird dann aktualisiert.",
+    "title": "4  Anleitung für Quarto Wetsites",
+    "section": "4.5 Veröffentlichung der Website",
+    "text": "4.5 Veröffentlichung der Website\nDie Veröffentlichung der Website erfordert einen weiteren Konfigurationsschritt. Die Datei _quarto.yml muss um den Eintrag output: erweitert werden.\nproject:\n  type: website\n  output-dir: docs\nAusserdem muss im Ordner, in dem die Datei index.qmd liegt, eine Datei mit dem Namen .nojekyll erstellt werden. Diese Datei ist leer und hat keine Dateinamenserweiterung.\nNach diesen Vorbereitungen kann die Website mit dem Befehl\nquarto render\nerstellt werden. Dabei werden die Dateien in den Ordner docs geschrieben. Zur Veröffentlichung der Website müssen die Dateien mit git nach GitHub hochgeladen werden. Dazu sind die folgenden Vorbereitungen und Befehle erforderlich:\n\nErstellen eines GitHub-Repositories\nEin GitHub-Repository (kurz Repo) ist ein Speicherort für die Website. Es wird empfohlen, ein Repository mit dem gleichen Namen wie das Quarto-Projekt zu erstellen. Das Repository kann auf der GitHub-Website erstellt werden. Dazu muss der Button New in der oberen linken Ecke der Website angeklickt werden. Im nächsten Schritt muss der Name des Repositories eingegeben werden. Der Name sollte so gewählt werden, dass er einen Hinweis auf den Inhalt des Projekts gibt. Idealerweise werden für den Namen ausschliesslich ASCII-Zeichen verwendet.\nDie Sichtbarkeitseinstellungen des Repositories können auf Public gestellt werden.\nErstellen eines lokalen Repositories\ngit init\nVerbinden des lokalen Repositories mit dem GitHub-Repository\ngit remote add origin &lt;URL des Repositories&gt;\nDie URL des Repositories findet man auf der GitHub-Website. Dazu muss man im Repository auf den Button Code klicken. Dort wird die URL angezeigt. Diese URL muss in den Befehl eingefügt werden. Die URL sieht in etwa so aus: https://github.com/VorlagenMk/250424_test.git\nErfassen der Änderungen\ngit add docs\nErstellen eines Commits\nEin Commit ist eine Art Schnappschuss des aktuellen Zustand des Projekts.\nbash  git commit -m \"Erster Commit\" Der Text in Anführungszeichen ist die Beschreibung des Commits. Der Text sollte so gewählt werden, dass er den Inhalt des aktuellen Standes der Website wiedergibt.\nAnpassen der GitHub-Repositories-Einstellungen (einmalig)\nIm GitHub-Repository muss unter dem Punkt Settings die Option Pages aufgerufen werden. Unter dem Punkt Source muss Deploy from a branch ausgewählt werden. Unter Dem Punkt Branch muss main ausgewählt werden. Die Option /(root)muss auf /docs geändert werden werden. Danach werden die Änderungen mit dem Button Save gespeichert.\nBis die Inhalte als Website angezeigt werden, kann es einige Minuten dauern. Sobald die Website verfügbar ist, wird die URL angezeigt. Diese URL kann verwendet werden, um die Website zu teilen.\n\nÄnderungen an der Website können mit den Befehlen 4 und 5 publiziert werden. Die Website wird dann aktualisiert.",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
     ]
   },
   {
     "objectID": "files/anleitung.html#anpassung-des-erscheinungsbildes",
     "href": "files/anleitung.html#anpassung-des-erscheinungsbildes",
-    "title": "5  Anleitung für Quarto Wetsites",
-    "section": "5.6 Anpassung des Erscheinungsbildes",
-    "text": "5.6 Anpassung des Erscheinungsbildes\nDas Erscheinungsbild der Website kann durch die Verwendung von Themes angepasst werden. Darüber Hinaus kann das Erscheinungsbild mit CSS gesteuert werden. Ein Videotutorial für die Anpassung des Erscheinungsbildes findet sich auf\nYoutube: Quarto Websites 3: Customize appearance with CSS/SCSS",
+    "title": "4  Anleitung für Quarto Wetsites",
+    "section": "4.6 Anpassung des Erscheinungsbildes",
+    "text": "4.6 Anpassung des Erscheinungsbildes\nDas Erscheinungsbild der Website kann durch die Verwendung von Themes angepasst werden. Darüber Hinaus kann das Erscheinungsbild mit CSS gesteuert werden. Ein Videotutorial für die Anpassung des Erscheinungsbildes findet sich auf\nYoutube: Quarto Websites 3: Customize appearance with CSS/SCSS",
     "crumbs": [
       "Unternehmensprojekt",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Anleitung für Quarto Wetsites</span>"
     ]
   }
 ]
