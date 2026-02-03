@@ -37,14 +37,15 @@ jobs:
                         etoolbox amsmath amsfonts tools
 
       - name: Render Quarto Book
-        run: |
-          quarto render --to html
-          quarto render --to pdf
+        run: quarto render
+
+      - name: List output directory
+        run: ls -la _book/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs
+          path: _book
 
   deploy:
     needs: build
