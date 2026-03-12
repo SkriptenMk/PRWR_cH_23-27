@@ -17,13 +17,12 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 04.03.2026 | Arbeitslosigkeit II |
 | 06.03.2026 | Arbeitslosigkeit III |
 | 11.03.2026 | LEISTUNGSNACHWEIS 1 |
-| 13.03.2026 | Aussenwirtschaft I |
-| 18.03.2026 | Aussenwirtschaft II |
-| 20.03.2026 | Aussenwirtschaft III |
-| 25.03.2026 | Wechselkurse I |
-| 27.03.2026 | Wechselkurse II |
-| 01.04.2026 | Zahlungsbilanz I |
-| 08.04.2026 | Zahlungsbilanz II |
+| 18.03.2026 | Ehevoraussetzungen |
+| 20.03.2026 | Ehegüterrecht |
+| 25.03.2026 | Kindsrecht |
+| 27.03.2026 | Unterhaltsrecht |
+| 01.04.2026 | Erbrecht I |
+| 08.04.2026 | Erbrecht II |
 | 10.04.2026 | LEISTUNGSNACHWEIS 2 |
 | 15.04.2026 |  |
 | 17.04.2026 |  |
