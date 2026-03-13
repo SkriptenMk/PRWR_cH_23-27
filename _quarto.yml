@@ -20,6 +20,9 @@ book:
         - files/auftrag.qmd
         - files/beurteilung.qmd
         - files/anleitung.qmd
+    - part: "Familienrecht"
+      chapters:
+        - files/eherecht/verloebnis.qmd
   repo-url: https://github.com/SkriptenMk/PRWR_cH_23-27
   repo-actions: [issue]
 
