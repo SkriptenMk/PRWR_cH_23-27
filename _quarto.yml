@@ -3,8 +3,8 @@ project:
 
 lang: de-CH
 
-bibliography: references.bib
-csl: juristische-zitierweise-schweizer.csl
+bibliography: references.json
+csl: juristische_aufsaetze.csl
 
 book:
   title: "PrWR 3cH (Schuljahr 2025/2026)"
@@ -23,6 +23,9 @@ book:
     - part: "Familienrecht"
       chapters:
         - files/eherecht/verloebnis.qmd
+        - files/eherecht/eheschliessung.md
+        - files/bibliographie.qmd
+        
   repo-url: https://github.com/SkriptenMk/PRWR_cH_23-27
   repo-actions: [issue]
 
