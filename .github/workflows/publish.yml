@@ -27,9 +27,10 @@ jobs:
       - name: Install TinyTeX
         run: quarto install tinytex
 
-      - name: Install additional LaTeX packages
+      - name: Update tlmgr and install LaTeX packages
         run: |
           export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
+          tlmgr update --self
           tlmgr install babel-german hyphen-german koma-script luatexja \
                         selnolig microtype fontspec unicode-math lualatex-math \
                         booktabs multirow xcolor colortbl \
