@@ -30,6 +30,7 @@
       <term name="accessed">besucht am</term>
       <term name="editor">Hrsg.</term>
       <term name="et-al">et al.</term>
+      <term name="ibid">ibid.</term>
     </terms>
   </locale>
 
@@ -301,147 +302,74 @@
 
   <!-- ============================================================
        CITATION  (Fussnoten)
-       position="first"  → Vollzitat
-       sonst             → Kurzzitat
+       position="ibid"   → ibid. (ggf. mit Locator)
+       alle anderen      → immer Vollzitat
        ============================================================ -->
   <citation>
     <layout delimiter="; " suffix=".">
       <choose>
 
-        <if type="article-journal">
-          <choose>
-            <if position="first">
-              <text macro="full-article-journal"/>
-            </if>
-            <else>
-              <group delimiter=", ">
-                <text macro="author-note"/>
-                <choose>
-                  <if match="any" variable="title-short">
-                    <text variable="title-short"/>
-                  </if>
-                </choose>
-                <text variable="locator"/>
-              </group>
-            </else>
-          </choose>
+        <!-- ── ibid: unmittelbare Wiederholung desselben Titels ── -->
+        <if position="ibid-with-locator">
+          <group delimiter=", ">
+            <text term="ibid"/>
+            <text variable="locator"/>
+          </group>
         </if>
+        <else-if position="ibid">
+          <text term="ibid"/>
+        </else-if>
 
+        <!-- ── article-journal ── -->
+        <else-if type="article-journal">
+          <text macro="full-article-journal"/>
+        </else-if>
+
+        <!-- ── book ── -->
         <else-if type="book">
-          <choose>
-            <if position="first">
-              <text macro="full-book"/>
-            </if>
-            <else>
-              <group delimiter=", ">
-                <text macro="autor-editor-note"/>
-                <choose>
-                  <if match="any" variable="title-short">
-                    <text variable="title" form="short"/>
-                  </if>
-                </choose>
-                <text variable="locator"/>
-              </group>
-            </else>
-          </choose>
+          <text macro="full-book"/>
         </else-if>
 
+        <!-- ── thesis ── -->
         <else-if type="thesis">
-          <choose>
-            <if position="first">
-              <text macro="full-thesis"/>
-            </if>
-            <else>
-              <group delimiter=", ">
-                <text macro="autor-editor-note"/>
-                <choose>
-                  <if match="any" variable="title-short">
-                    <text variable="title" form="short"/>
-                  </if>
-                </choose>
-                <text variable="locator"/>
-              </group>
-            </else>
-          </choose>
+          <text macro="full-thesis"/>
         </else-if>
 
+        <!-- ── chapter ── -->
         <else-if type="chapter">
-          <choose>
-            <if position="first">
-              <text macro="full-chapter"/>
-            </if>
-            <else>
-              <group delimiter=", ">
-                <text macro="author-note"/>
-                <choose>
-                  <if match="any" variable="title-short">
-                    <text variable="title" form="short" prefix="in: "/>
-                  </if>
-                </choose>
-                <text variable="locator"/>
-              </group>
-            </else>
-          </choose>
+          <text macro="full-chapter"/>
         </else-if>
 
+        <!-- ── entry-encyclopedia (Kommentare) ── -->
         <else-if type="entry-encyclopedia">
-          <choose>
-            <if position="first">
-              <text macro="full-entry-encyclopedia"/>
-            </if>
-            <else>
-              <text variable="title" suffix="-" form="short"/>
-              <text macro="author-note" suffix=", "/>
-              <text variable="title" form="long" suffix=" "/>
-              <text variable="locator"/>
-            </else>
-          </choose>
+          <text macro="full-entry-encyclopedia"/>
         </else-if>
 
+        <!-- ── bill ── -->
         <else-if type="bill">
-          <choose>
-            <if position="first">
-              <text macro="full-bill"/>
-            </if>
-            <else>
-              <group delimiter=", ">
-                <choose>
-                  <if match="any" variable="title-short">
-                    <text variable="title" form="short"/>
-                  </if>
-                  <else>
-                    <text variable="title"/>
-                  </else>
-                </choose>
-                <text variable="locator"/>
-              </group>
-            </else>
-          </choose>
+          <text macro="full-bill"/>
         </else-if>
 
+        <!-- ── webpage ── -->
         <else-if type="webpage">
-          <choose>
-            <if position="first">
-              <text macro="full-webpage"/>
-            </if>
-            <else>
-              <group delimiter=", ">
-                <text macro="author-note"/>
-                <text variable="title-short"/>
-                <text variable="locator"/>
-              </group>
-            </else>
-          </choose>
+          <text macro="full-webpage"/>
         </else-if>
 
+        <!-- ── legal_case: immer nur Titel ── -->
         <else-if type="legal_case" match="any">
-          <!-- Rechtsprechung: immer Vollzitat, keine Kurzzitierung vorgesehen -->
           <text macro="full-legal-case"/>
         </else-if>
 
+        <!-- ── Fallback (@misc ohne Autor: nur Titel) ── -->
         <else>
           <choose>
-            <if position="first">
+            <if match="none" variable="author editor">
+              <group delimiter=", ">
+                <text variable="title"/>
+                <text variable="locator"/>
+              </group>
+            </if>
+            <else>
               <group delimiter=", ">
                 <text macro="author-full"/>
                 <text variable="title"/>
@@ -456,13 +384,6 @@
                 </group>
               </group>
               <text variable="locator" prefix=", "/>
-            </if>
-            <else>
-              <group delimiter=", ">
-                <text macro="author-note"/>
-                <text variable="title-short"/>
-                <text variable="locator"/>
-              </group>
             </else>
           </choose>
         </else>
