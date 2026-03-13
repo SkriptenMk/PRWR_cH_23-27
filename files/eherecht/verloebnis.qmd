@@ -1,15 +1,18 @@
 ---
 title: "Das Verlöbnis"
-weight: 1
-bookToc: false
+author: "Jacques Mock Schindler"
+date: 2026-03-13
+date-format: "DD. MMMM YYYY"
+lang: de-CH
 ---
 
 ### Das Verlöbnis
 
 Die Verlobung ist das Versprechen des Brautpaares, miteinander die Ehe
 einzugehen. Obwohl es sich bei der Verlobung um ein Vertrag handelt
-(vgl. [Marginalie von Art. 90 ZGB des französischen Textes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr#book_2/part_1/tit_3/chap_I/lvl_A)), gibt es nach
-Art. 90 Abs. 3 ZGB keinen klagbaren Anspruch auf das Eingehen der Ehe.
+(vgl. [Marginalie von Art. 90 ZGB des französischen
+Textes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr#book_2/part_1/tit_3/chap_1/lvl_A)),
+gibt es nach Art. 90 Abs. 3 ZGB keinen klagbaren Anspruch auf das Eingehen der Ehe.
 
 Wie für alle Rechtsgeschäfte gilt, dass die Verlobten grundsätzlich
 volljährig sein müssen. Allerdings lässt [Art. 90 Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_90) ein
