@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5                          # v5: Node.js 24
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -43,7 +43,7 @@ jobs:
         run: ls -la _book/
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3             # composite action, bleibt v3
         with:
           path: _book
 
@@ -56,4 +56,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4                      # aktuellste stabile Version
