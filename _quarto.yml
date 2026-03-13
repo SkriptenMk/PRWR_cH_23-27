@@ -3,7 +3,7 @@ project:
 
 lang: de-CH
 
-bibliography: references.json
+bibliography: refernzen.bib
 csl: juristische_aufsaetze.csl
 
 book:
@@ -24,6 +24,7 @@ book:
       chapters:
         - files/eherecht/verloebnis.qmd
         - files/eherecht/eheschliessung.md
+        - files/eherecht/trauung_im_ausland.md
         
   repo-url: https://github.com/SkriptenMk/PRWR_cH_23-27
   repo-actions: [issue]
