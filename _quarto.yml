@@ -3,6 +3,9 @@ project:
 
 lang: de-CH
 
+bibliography: references.bib
+csl: juristische-zitierweise-schweizer.csl
+
 book:
   title: "PrWR 3cH (Schuljahr 2025/2026)"
   author: "Jacques Mock Schindler"
