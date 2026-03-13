@@ -6,8 +6,6 @@ date-format: "DD. MMMM YYYY"
 lang: de-CH
 ---
 
-### Das Verlöbnis
-
 Die Verlobung ist das Versprechen des Brautpaares, miteinander die Ehe
 einzugehen. Obwohl es sich bei der Verlobung um ein Vertrag handelt
 (vgl. [Marginalie von Art. 90 ZGB des französischen
