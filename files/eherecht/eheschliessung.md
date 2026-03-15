@@ -10,7 +10,7 @@ lang: de-CH
 
 Ursprünglich war die Ehe definiert als *das auf Dauer angelegte
 Zusammenleben von Mann und Frau in einer umfassenden
-Lebensgemeinschaft*[@BGE119II264; @art159zgb, ZGB 159 N 5].
+Lebensgemeinschaft*[@BGE119II264; @art159zgb, Art. 159 ZGB N 5].
 
 Am 26. September 2021 wurde die Volksinitiative "Ehe für Alle" von einer
 klaren Mehrheit der Stimmberechtigten und von allen Kantonen
@@ -42,7 +42,7 @@ ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_94)).
 
 Die Möglichkeit bereits vor Erreichen des Mündigkeitsalters zu heiraten,
 wurde mit der Herabsetzung des zivilrechtlichen Mündigkeitsalters auf 18
-Jahre gestrichen[@art94zgb, ZGB 94 N 1].
+Jahre gestrichen[@art94zgb, Art. 94 ZGB N 1].
 
 ### Ehehindernisse
 
