@@ -56,26 +56,36 @@ Gemeindebürgerrecht seines Ehegatten.
 
 ## Wohnsitz
 
-[Art. 162 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_162) hält fest, dass die Ehegatten gemeinsam die eheliche
+[Art. 162
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_162) 
+hält fest, dass die Ehegatten gemeinsam die eheliche
 Wohnung bestimmen. Dies muss nicht bedeuten, dass das Ehepaar den
 gleichen Wohnsitz hat. Das Ehepaar kann sich auch darauf einigen, in
-zwei verschiedenen Wohnungen zu leben[^11].
+zwei verschiedenen Wohnungen zu leben[@art159zgb, Art. 162 ZGB N 4].
 
 ## Allgemeine wirtschaftliche Wirkungen der Ehe
 
 ### Unterhalt
 
-Die Ehegatten sorgen nach [Art. 163 Abs. 1 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_163) gemeinsam für den
-Unterhalt der Familie. Damit wird [Art. 159 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_159) in wirtschaftlicher
-Hinsicht konkretisiert[^12].
+Die Ehegatten sorgen nach 
+[Art. 163 Abs. 1
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_163) 
+gemeinsam für den Unterhalt der Familie. Damit wird 
+[Art. 159
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_159) 
+in wirtschaftlicher Hinsicht konkretisiert[@art163zgb, Art. 163 ZGB N 1].
 
 Die Beiträge der Ehegatten können nicht nur in Geld geleistet werden.
 Geldleistungen gleichgestellt sind Arbeitsleistung im Haushalt sowie die
-Betreuung von Kindern oder die Mitarbeit im Gewerbe des anderen[^13].
+Betreuung von Kindern oder die Mitarbeit im Gewerbe des
+anderen[@familienrecht_zgb, N 08.12 f].
 
 ### Stellvertretung
 
-Nach [Art. 166 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_166) vertritt jeder Ehegatte während des Zusammenlebens die
+Nach 
+[Art. 166
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_166) 
+vertritt jeder Ehegatte während des Zusammenlebens die
 eheliche Gemeinschaft für die laufenden Bedürfnisse der Familie.
 
 In dieser Bestimmung sind eine zeitliche und eine inhaltliche
