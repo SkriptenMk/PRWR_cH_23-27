@@ -3,6 +3,9 @@ project:
 
 lang: de-CH
 
+bibliography: refernzen.bib
+csl: juristische_aufsaetze.csl
+
 book:
   title: "PrWR 3cH (Schuljahr 2025/2026)"
   author: "Jacques Mock Schindler"
@@ -17,6 +20,13 @@ book:
         - files/auftrag.qmd
         - files/beurteilung.qmd
         - files/anleitung.qmd
+    - part: "Familienrecht"
+      chapters:
+        - files/eherecht/verloebnis.qmd
+        - files/eherecht/eheschliessung.md
+        - files/eherecht/trauung_im_ausland.md
+        - files/eherecht/eheliche_gemeinschaft.md
+        
   repo-url: https://github.com/SkriptenMk/PRWR_cH_23-27
   repo-actions: [issue]
 
