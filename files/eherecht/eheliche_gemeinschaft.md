@@ -9,33 +9,35 @@ lang: de-CH
 ## Die eheliche Gemeinschaft
 
 Durch die Trauung werden die Ehegatten zur ehelichen Gemeinschaft
-verbunden ([Art. 159 Abs. 1 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_159)). Diese besteht aus den Brautleuten und
-deren Kindern[^6]. Wie bereits erwähnt, bildet die eheliche Gemeinschaft
-die umfassendste Gemeinschaft, welche die Rechtsordnung kennt. Sie
+verbunden
+([Art. 159 Abs. 1
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_159)).
+Die eheliche Gemeinschaft bildet die umfassendste Gemeinschaft, welche
+die Rechtsordnung kennt[@art159zgb, Art. 159 ZGB  N 4]. Sie
 verlangt daher nach Art. 159 Abs. 3 ZGB auch umfassende Treue zwischen
-den Ehepartnern. Diese bezieht sich auf alle Aspekte der Partnerschaft
-von Mann und Frau[^7].
-
-Obwohl die eheliche Gemeinschaft Ähnlichkeiten mit Formen des
-Gesellschaftsrechts aufweist, hat sie keine eigene
-Rechtspersönlichkeit[^8].
+den Ehepartnern. Diese bezieht sich auf alle Aspekte der
+Partnerschaft[@art159zgb, Art. 159 ZGB N 11].
 
 ## Familienname
 
 Leitgedanke des Namensrechts ist der Grundsatz der Unveränderlichkeit
-des Geburtsnamens[^9]. Obwohl dieser Grundsatz in [Art. 160 Abs. 1 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_160)
+des Geburtsnamens. Obwohl dieser Grundsatz in 
+[Art. 160 Abs. 1 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_160)
 als allgemeine Regel formuliert wird, entspricht er nicht der
-gesellschaftlichen Realität. In Rund zwei Dritteln aller Trauungen wird von
-der Ausnahme von Art. 160 Abs. 2 ZGB Gebrauch gemacht und der Name des
-Bräutigams zum gemeinsamen Familiennamen gewählt[^10].
+gesellschaftlichen Realität. 2024 wurde in etwas mehr als 60% aller Trauungen
+von der Ausnahme von Art. 160 Abs. 2 ZGB Gebrauch gemacht und der Name
+des Bräutigams als gemeinsamer Familienname gewählt[@namen25].
 
 ## Bürgerrecht
 
-Die Ehe hat nach [Art. 161 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_161) keinen Einfluss auf das Bürgerrecht
-Schweizerischer Ehegatten.
+Die Ehe hat nach 
+[Art. 161
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_161) 
+keinen Einfluss auf das Bürgerrecht Schweizerischer Ehegatten.
 
 Ein Ausländer, welcher eine Schweizerin heiratet, oder eine
-Ausländerin, welche einen Schweizer heiratet, kann nach [Art. 21 BüG](https://www.fedlex.admin.ch/eli/cc/2016/404/de#art_21)
+Ausländerin, welche einen Schweizer heiratet, kann nach 
+[Art. 21 BüG](https://www.fedlex.admin.ch/eli/cc/2016/404/de#art_21)
 unter den folgenden Voraussetzungen ein Gesuch um erleichterte
 Einbürgerung stellen:
 
