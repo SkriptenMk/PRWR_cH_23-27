@@ -43,14 +43,11 @@ Polygamie.
 
 ## Minderjährige
 
-In vielen islamischen Staaten ist die Ehe vor dem Erreichen des
-18. Lebensjahres möglich. Meistens gilt für die Braut dabei ein noch
-tieferes Mindestalter als für den
-Bräutigam[@buchlerEheschliessungenImAusland2008, S. 59 f]. Aber nicht
-nur in islamischen Staaten, auch in fast allen US-Amerikanischen
-Bundesstaaten ist -- zumindest unter gewissen Voraussetzungen -- die
+Anders als in vielen islamischen Staaten, welche das Ehemündigkeitsalter
+grundsätzlich auf 18 Jahre angehoben haben, lassen eine mehrheit
+US-Amerikanischer Bundesstaaten -- zumindest unter gewissen Voraussetzungen -- die
 Eheschliessung unter 18 Jahren
-möglich[@EhemuendigkeitVereinigtenStaaten2026]. 
+weiterhin zu[@EhemuendigkeitVereinigtenStaaten2026]. 
 
 Damit stellt sich die Frage, ob es ein internationales Mindestalter für
 die Heirat gibt. Die Schweizerischen Zivilstandsbehörden lehnen in der
