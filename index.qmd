@@ -24,15 +24,15 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 01.04.2026 | Erbrecht I |
 | 08.04.2026 | Erbrecht II |
 | 10.04.2026 | LEISTUNGSNACHWEIS 2 |
-| 15.04.2026 |  |
-| 17.04.2026 |  |
-| 06.05.2026 |  |
-| 08.05.2026 |  |
-| 13.05.2026 |  |
-| 15.05.2026 |  |
-| 20.05.2026 |  |
-| 22.05.2026 |  |
-| 27.05.2026 |  |
+| 15.04.2026 | Vorbereitung Abschlussprüfung |
+| 17.04.2026 | Vorbereitung Abschlussprüfung |
+| 06.05.2026 | Vorbereitung Abschlussprüfung |
+| 08.05.2026 | Vorbereitung Abschlussprüfung |
+| 13.05.2026 | Vorbereitung Abschlussprüfung |
+| 15.05.2026 | Vorbereitung Abschlussprüfung |
+| 20.05.2026 | Vorbereitung Abschlussprüfung |
+| 22.05.2026 | Vorbereitung Abschlussprüfung |
+| 27.05.2026 | Vorbereitung Abschlussprüfung |
 
 
 
