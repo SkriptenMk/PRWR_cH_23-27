@@ -1,10 +1,12 @@
 ---
-title: "Gütergemeinschaft"
-weight: 6
-bookToc: false
+title: "Die Gütergemeinschaft"
+author: "Jacques Mock Schindler"
+date: 2026-03-19
+date-format: "DD. MMMM YYYY"
+lang: de-CH
 ---
 
-#### Die Gütergemeinschaft
+## Die Gütergemeinschaft
 
 Die Gütergemeinschaft bringt güterrechtlich die enge Beziehung, welche
 die Ehe zwischen den Ehepartnern in rechtlicher Hinsicht stiftet, am
