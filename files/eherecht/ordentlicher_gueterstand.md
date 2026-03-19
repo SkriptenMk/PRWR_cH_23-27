@@ -1,12 +1,14 @@
 ---
-title: "Errungenschaftsbeteiligung"
-weight: 4
-bookToc: false
+title: "Der ordentliche Güterstand"
+author: "Jacques Mock Schindler"
+date: 2026-03-19
+date-format: "DD. MMMM YYYY"
+lang: de-CH
 ---
 
-#### Der ordentliche Güterstand
+## Der ordentliche Güterstand
 
-##### Beschreibung
+### Beschreibung
 
 Der ordentliche Güterstand der Errungenschaftsbeteiligung ist auch der
 subsidiäre Güterstand. D.h. der Gesetzgeber zwingt den Ehegatten keinen
@@ -33,14 +35,17 @@ Ehegatten finanziert worden ist? Wenn es sich um eine Anschaffung, die
 Ersatzforderung der Errungenschaft gegenüber dem Eigengut[^3]. Diese Ersatzforderung ist für die güterrechtliche
 Auseinandersetzung von Bedeutung.
 
-Mittels Ehevertrag kann nach [Art. 199 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_199) ein Vermögenswert, welcher
-ein Ehegatte zur Ausübung seines Berufes braucht, dem Eigengut
-zugeschlagen werden. Das gleiche gilt für Erträge des Eigengutes.
+Mittels Ehevertrag kann nach [Art. 199
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_199) ein
+Vermögenswert, welcher ein Ehegatte zur Ausübung seines Berufes braucht,
+dem Eigengut zugeschlagen werden. Das gleiche gilt für Erträge des
+Eigengutes. 
 
-##### Güterrechtliche Auseinandersetzung
-Nach [Art. 204 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_204) wird der Güterstand der Errungenschaftsbeteiligung
-durch das Ende der Ehe oder durch die Vereinbarung eines anderen
-Güterstandes aufgehoben.
+### Güterrechtliche Auseinandersetzung
+Nach [Art. 204
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_204) wird
+der Güterstand der Errungenschaftsbeteiligung durch das Ende der Ehe
+oder durch die Vereinbarung eines anderen Güterstandes aufgehoben.
 
 Die güterrechtliche Auseinandersetzung erfolgt in vier Schritten[^4]:
 
