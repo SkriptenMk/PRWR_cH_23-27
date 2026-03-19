@@ -20,7 +20,7 @@ book:
         - files/auftrag.qmd
         - files/beurteilung.qmd
         - files/anleitung.qmd
-    - part: "Familienrecht"
+    - part: "Die Eheschliessung"
       chapters:
         - files/eherecht/verloebnis.qmd
         - files/eherecht/eheschliessung.md
