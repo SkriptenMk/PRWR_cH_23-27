@@ -98,29 +98,3 @@ des Vertretungsrechts von [Art. 32
 ff. OR](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_G)
 nicht entgegen[@familienrecht_zgb, N 08.56].
 
-
-
-[^6]: Hausheer, Heinz, Thomas Geiser, und Regina Elisabeth Aebi-Müller.
-    Das Familienrecht des Schweizerischen Zivilgesetzbuches. 5.,
-    Vollständig überarbeitete und Aktualisierte Auflage. Stämpflis
-    juristische Lehrbücher. Bern: Stämpfli, 2014 (Zitiert Familienrecht ZGB),
- N 06.01; Schwander, Ivo. „Die Wirkungen der Ehe im Allgemeinen“. In Zivilgesetzbuch I, herausgegeben von Heinrich Honsell, Nedim Peter Vogt, und Thomas Geiser, 5. Auflage. Basler Kommentar. Basel: Helbing Lichtenhahn Verlag, 2014, Art. 195 ZGB, N 10.
-
-[^7]: Familienrecht ZGB, N 06.17.
-
-[^8]: Familienrecht ZGB, N 06.03.
-
-[^9]: Familienrecht ZGB, N 07.06.
-
-[^10]: [Büchi Vera, Beim Nachnamen macht die Emanzipierung halt, SRF 2021](https://www.srf.ch/radio-srf-1/radio-srf-1/gleichstellung-und-namen-beim-nachnamen-macht-die-emanzipierung-halt#:~:text=Das%20Schweizer%20Namensrecht%20im%20Wandel&text=Bis%201984%20galt%20in%20der,den%20Namen%20des%20Mannes%20annimmt.).
-
-[^11]: Schwander Ivo. „Eheliche Wohnung“. In Zivilgesetzbuch I, herausgegeben von Heinrich Honsell, Nedim Peter Vogt, und Thomas Geiser, 5. Auflage. Basler Kommentar. Basel: Helbing Lichtenhahn Verlag, 2014, N 5.
-
-[^12]: Isenring, Bernhard, und Martin A. Kessler. „Die Wirkungen der Ehe
-    im Allgemeinen“. In Zivilgesetzbuch I, herausgegeben von Heinrich
-    Honsell, Nedim Peter Vogt, und Thomas Geiser, 5. Auflage. Basler
-    Kommentar. Basel: Helbing Lichtenhahn Verlag, 2014,  N 1.
-
-[^13]: Familienrecht ZGB, N 08.12 f.
-
-[^14]: Familienrecht ZGB, N 08.56.
