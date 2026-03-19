@@ -1,10 +1,12 @@
 ---
-title: "Gütergemeinschaft"
-weight: 6
-bookToc: false
+title: "Die Gütergemeinschaft"
+author: "Jacques Mock Schindler"
+date: 2026-03-19
+date-format: "DD. MMMM YYYY"
+lang: de-CH
 ---
 
-#### Die Gütergemeinschaft
+## Die Gütergemeinschaft
 
 Die Gütergemeinschaft bringt güterrechtlich die enge Beziehung, welche
 die Ehe zwischen den Ehepartnern in rechtlicher Hinsicht stiftet, am
@@ -22,8 +24,11 @@ Vermögenswerte ins Gesamtgut gehören -- oder die Auschlussgemeinschaft
 Gesamtgut fallen.
 
 Am Gesamtgut habe beide Ehepartner gemeinschaftliches Eigentum zur
-gesamten Hand. Diese Eigentumsverhältnisse werden durch die Art. [652](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_652) --
-[654a](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_654_a) ZGB geregelt.
+gesamten Hand. Diese Eigentumsverhältnisse werden durch die
+Art. [652](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_652)
+-- 
+[654a](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_654_a)
+ZGB geregelt. 
 
 Die Gütergemeinschaft wird aufgelöst, wenn einer der Ehegatten stirbt,
 wenn ein anderer Güterstand vereinbart wird oder wenn über einen der
@@ -34,16 +39,5 @@ Die güterrechtliche Auseinandersetzung ist in der Gütergemeinschaft
 einfacher als im ordentlichen Güterstand der Errungenschaftsbeteiligung.
 Hier ist lediglich festzustellen, zu welchen Massen ein einzelner
 Vermögenswert gehört. Nach dieser Zuweisung erhalten beide Ehegatten die
-Hälfte vom Gesamtgut.[^1]
+Hälfte vom Gesamtgut.[@familienrecht_zgb, N 13.01 ff]
 
-* Zurück zur [vorherigen Seite](ordentlicher_gueterstand)
-* Weiter zur [nächsten Seite](guetertrennung)
-* [Zum Inhaltsverzeichnis](../../index)
-
----
-
-
-[^1]: Hausheer, Heinz, Thomas Geiser, und Regina Elisabeth Aebi-Müller.
-    Das Familienrecht des Schweizerischen Zivilgesetzbuches. 5.,
-    Vollständig überarbeitete und Aktualisierte Auflage. Stämpflis
-    juristische Lehrbücher. Bern: Stämpfli, 2014, N 13.01 ff.

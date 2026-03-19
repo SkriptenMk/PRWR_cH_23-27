@@ -20,12 +20,17 @@ book:
         - files/auftrag.qmd
         - files/beurteilung.qmd
         - files/anleitung.qmd
-    - part: "Familienrecht"
+    - part: "Die Eheschliessung"
       chapters:
         - files/eherecht/verloebnis.qmd
         - files/eherecht/eheschliessung.md
         - files/eherecht/trauung_im_ausland.md
         - files/eherecht/eheliche_gemeinschaft.md
+    - part: "Das Güterrecht der Ehegatten"
+      chapters:
+        - files/eherecht/ordentlicher_gueterstand.md
+        - files/eherecht/guetergemeinschaft.md
+        - files/eherecht/guetertrennung.md
         
   repo-url: https://github.com/SkriptenMk/PRWR_cH_23-27
   repo-actions: [issue]
