@@ -1,10 +1,10 @@
 ---
-title: "Gütertrennung"
-weight: 5
-bookToc: false
+title: "Die Gütertrennung"
+author: "Jacques Mock Schindler"
+date: 2026-03-19
+date-format: "DD. MMMM YYYY"
+lang: de-CH
 ---
-
-#### Die Gütertrennung
 
 In der Gütertrennung hat die Ehe keine vermögensrechtlichen
 Konsequenzen. Jeder Ehegatte bleibt Eigentümer an seinem Vermögen und an
