@@ -15,17 +15,6 @@ gewählt werden. Sie tritt allerdings als ausserodentlicher Güterstand
 auch ein, wenn die Scheidung verlangt wird.
 
 Weil es unter diesem Güterstand kein gemeinsames Vermögen gibt, erübrigt
-sich eine güterrechtliche Ausseinandersetzung.[^1]
+sich eine güterrechtliche Ausseinandersetzung.[@familienrecht_zgb, N
+13.48 ff]
 
-* Zurück zur [vorherigen Seite](guetergemeinschaft)
-* Weiter zur [nächsten Seite](../scheidung)
-* [Zum Inhaltsverzeichnis](../../index)
-
----
-
-| [Vorherige Seite](guetergemeinschaft) | [Inhaltsverzeichnis](../../index) | [Nächste Seite](../scheidung) |
-
-[^1]: Hausheer, Heinz, Thomas Geiser, und Regina Elisabeth Aebi-Müller.
-    Das Familienrecht des Schweizerischen Zivilgesetzbuches. 5.,
-    Vollständig überarbeitete und Aktualisierte Auflage. Stämpflis
-    juristische Lehrbücher. Bern: Stämpfli, 2014, N 13.48 ff.
