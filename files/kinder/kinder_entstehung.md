@@ -7,9 +7,10 @@ lang: de-CH
 ---
 
 Mit der Frage nach der Entstehung des Kindesverhältnisses wird die
-rechtliche Zuordnung eines Kindes zu seinen Eltern geklärt[^1]. Diese
+rechtliche Zuordnung eines Kindes zu seinen Eltern
+geklärt[@schwenzerVor252, Vor Art. 252 ZGB N 2]. Diese
 Zuordnung wird in der Regel mit der biologischen Elternschaft
-übereinstimmen, zwingend ist dies aber nicht[^2].
+übereinstimmen, zwingend ist dies aber nicht.
 
 ## Das Kindsverhältnis zur Mutter
 
