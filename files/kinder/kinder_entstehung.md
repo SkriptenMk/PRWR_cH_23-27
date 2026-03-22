@@ -8,7 +8,7 @@ lang: de-CH
 
 Mit der Frage nach der Entstehung des Kindesverhältnisses wird die
 rechtliche Zuordnung eines Kindes zu seinen Eltern
-geklärt[@schwenzerVor252, Vor Art. 252 ZGB N 2]. Diese
+geklärt[@schwenzerKV2014, Vor Art. 252 ZGB N 2]. Diese
 Zuordnung wird in der Regel mit der biologischen Elternschaft
 übereinstimmen, zwingend ist dies aber nicht.
 
@@ -26,11 +26,17 @@ gespendete Spermien können einer Dritten als Embryo eingesetzt werden.
 Ein solches Vorgehen ist in der Schweiz nach [Art. 4
 Fortpflanzungsmedizingesetz
 (FMedG)](https://www.fedlex.admin.ch/eli/cc/2000/554/de#art_4)
-verboten. Es gibt aber Staaten, in denen das zulässig ist und daher ist
-davon auszugehen, dass es auch in der Schweiz so gezeugte Kinder gibt
-[^3]. Falls in der Schweiz in Umgehgung von [Art. 4 FMedG] ein Kind
-durch eine Leihmutter ausgetragen wird entsteht *de lege lata* durch die
-Geburt ein Kindesverhältnis zu ihr[^4]. 
+verboten. Es gibt aber Staaten, in denen das zulässig ist. Entsprechend
+gibt es auch in der Schweiz Kinder, die mit Hilfe solcher Verfahren
+gezeugt worden sind. Das Bundesgericht musste sich demgemäss auch schon
+mit solchen Fragen auseinandersetzen[@bge141III312]. Falls in der
+Schweiz in Missachtung von Art. 4 FMedG ein Kind durch eine Leihmutter
+ausgetragen wird entsteht *de lege lata* durch die Geburt ein
+Kindesverhältnis zu ihr[@schwenzerKV2014, Art. 252 ZGB N 9].
+Vertragliche Absprachen über ein Leihmutterverhältnis sind nach Art. 20
+Abs. 1 OR nichtig[@buechler2025, S. 186 f]. Ob dies im besten Interesse
+aller Beteiligten ist, darf in Frage gesetellt
+werden[@economist_surrogates_2025]. 
 
 #### Vater
 
@@ -39,21 +45,25 @@ biologische Abklärung kann die Vaterschaft nur vermutet oder autoritativ
 festgestellt werden. Das Gesetz zählt in [Art. 252 Abs. 2
 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_252) eine
 Reihenfolge von Entstehungsgründen auf. Alle Entstehungsgründe knüpfen
-an das Kindesverhältnis zur Mutter an[^5].
+an das Kindesverhältnis zur Mutter an[@familienrecht_zgb, N 16.16].
 
-An erster Stelle steht die Vermutung[^6], dass der Ehemann der Mutter
-der Vater des Kindes sei. Präzisiert wird diese Vermutung in [Art. 255
-ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_255).
+An erster Stelle steht die Vermutung[@schwenzerKV2014, Art. 252 ZGB, N
+13], dass der Ehemann der Mutter der Vater des Kindes sei[@buechler2025,
+S. 189]. Präzisiert wird diese Vermutung in [Art. 255
+ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_255). 
 Diese Vermutung ist Ausfluss aus dem ursprünglichen Wesen der Ehe als
-ausschliessliche Lebensgemeinschaft von Mann und Frau[^7]. Der zeitliche 
-Abstand zwischen Eheschliessung und Geburt spielt dabei keine Rolle[^8].
+ausschliessliche Lebensgemeinschaft von Mann und
+Frau[@hegnauerGrundrissKindesrechtsUnd1994, N 5.02]. Der zeitliche 
+Abstand zwischen Eheschliessung und Geburt spielt dabei keine
+Rolle[@hegnauerGrundrissKindesrechtsUnd1994, N 5.06; @buechler2025, S.
+189 f].
 
 Die Ehelichkeitsvermutung wird ergänzt um die Begründung des
 Kindesverhältnises durch Anerkennung oder Vaterschaftsurteil.
 Voraussetzung für diese Fälle ist allerdings, dass ausschliesslich ein
 Kindesverhältnis zur Mutter besteht; sei es weil sie ledig ist, sei es,
 dass das Kindesverhältnis zum Ehemann durch Anfechtung beseitig worden
-ist[^9].
+ist[@familienrecht_zgb, N 16.48 und 16.62].
 
 #### Anfechtung der Vaterschaftsvermutung
 
@@ -68,62 +78,14 @@ Minderjährigkeit endet.
 Neben dem Vater und dem Kind ist niemand zur Anfechtung der
 Vaterschaftsvermutung des Ehemannes berechtigt. Insbesondere der
 biologische Vater hat keine Möglichkeit seine Vaterschaft rechtlich
-festsellen zu lassen[^10]. Damit soll der Familienfrieden gewahrt
-werden.
+festsellen zu lassen[@bge108II344, E. 1 a); @familienrecht_zgb, N 16.35].
+Damit soll der Familienfrieden gewahrt werden[@bge108II344, E. 2 a)].
 
 #### Adoption
 
 Bei der Adoption handelt es sich um die Begründung des
 Kindesverhältnisses durch einen Rechtsakt. Die Adoption tritt an die
-Stelle des biologischen Kindesverhältnisses[^11]. Die einzige rechtliche
-Verbindung zur biologischen Familie, die bestehen bleibt, ist das
-Ehehindernis der Verwandtschaft.
+Stelle des biologischen Kindesverhältnisses[@familienrecht_zgb, N 16.72].
+Die einzige rechtliche Verbindung zur biologischen Familie, die bestehen
+bleibt, ist das Ehehindernis der Verwandtschaft (Art. 95 Abs. 2 ZGB).
 
-* Zurück zur [vorherigen Seite](scheidung)
-* Weiter zur [nächsten Seite](kinder_wirkung)
-* [Zum Inhaltsverzeichnis](../index)
-
----
-
-
-[^1]: Schwenzer, Ingeborg. „Die Entstehung des Kindesverhältnisses:
-    Vorbemerkungen zu Art. 252 - 359“. In Zivilgesetzbuch I,
-    herausgegeben von Heinrich Honsell, Nedim Peter Vogt, und Thomas
-    Geiser, 5. Auflage. Basler Kommentar. Basel: Helbing Lichtenhahn
-    Verlag, 2014 (Zitiert Basler Kommentar vor Art. 252 ZGB), N 2.
-
-[^2]: Basler Kommentar vor Art. 252 ZGB, N 2.
-
-[^3]: Wo eine Nachfrage besteht, wird auch ein Angebot gemacht;
-    vgl. The Economist. „Carrying a child for someone else should be
-    celebrated—and paid“. The Economist. Zugegriffen 11. Juni 2017.
-    http://www.economist.com/news/leaders/21721914-restrictive-rules-are-neither-surrogates-interests-nor-babys-carrying-child; 
-    The Economist. „As demand for surrogacy soars, more countries are trying to ban it“. The Economist. Zugegriffen 11. Juni 2017. http://www.economist.com/news/international/21721926-many-feminists-and-religious-leaders-regard-it-exploitation-demand-surrogacy.
-    
-[^4]: Schwenzer, Ingeborg. „Die Entstehung des Kindesverhältnisses:
-    Erster Abschnitt: Allgemeine Bestimmungen“. In Zivilgesetzbuch I,
-    herausgegeben von Heinrich Honsell, Nedim Peter Vogt, und Thomas
-    Geiser, 5. Auflage. Basler Kommentar. Basel: Helbing Lichtenhahn
-    Verlag, 2014 (Zitiert Basler Kommentar Art. 252 ZGB),  N 9.
-
-[^5]: Hausheer, Heinz, Thomas Geiser, und Regina Elisabeth Aebi-Müller.
-    Das Familienrecht des Schweizerischen Zivilgesetzbuches. 5.,
-    Vollständig überarbeitete und Aktualisierte Auflage. Stämpflis
-    juristische Lehrbücher. Bern: Stämpfli, 2014 (Zitiert Familienrecht
-    ZGB), N 16.16.
-
-[^6]: Basler Kommentar Art. 252 ZGB, N 13.
-
-[^7]: Hegnauer, Cyril, und Peter Breitschmid. Grundriss des
-    Kindesrechts: und des übrigen Verwandtschaftsrechts. 4.,
-    Überarbeitete Aufl. Stämpflis juristische Lehrbücher. Bern:
-    Stämpfli, 1994 (Zitiert Hegnauer), N 5.02.
-
-[^8]: Hegnauer, N 5.06.
-
-[^9]: Familienrecht ZGB, N 16.48 und 16.62.
-
-[^10]: [BGE 108 II 344](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&page=1&from_date=&to_date=&from_year=1954&to_year=2022&sort=relevance&insertion_date=&from_date_push=&top_subcollection_clir=bge&query_words=&part=all&de_fr=&de_it=&fr_de=&fr_it=&it_de=&it_fr=&orig=&translation=&rank=0&highlight_docid=atf%3A%2F%2F108-II-344%3Ade&number_of_ranks=0&azaclir=clir), E. 2;
-    Familienrecht ZGB, N 16.35.
-
-[^11]: Familienrecht ZGB, N 16.72.
