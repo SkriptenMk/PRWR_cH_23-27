@@ -14,7 +14,7 @@ Zuordnung wird in der Regel mit der biologischen Elternschaft
 
 ## Das Kindsverhältnis zur Mutter
 
-Die Zuordnung eines Kindes zu seiner Mutter ist einfach. Nach [Art. 252
+Die Zuordnung eines Kindes zu seiner Mutter erscheint einfach. Nach [Art. 252
 Abs. 1
 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_252)
 entsteht das Kindesverhältnis zur Mutter mit der Geburt (*mater semper
