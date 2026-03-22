@@ -38,6 +38,19 @@ Abs. 1 OR nichtig[@buechler2025, S. 186 f]. Ob dies im besten Interesse
 aller Beteiligten ist, darf in Frage gesetellt
 werden[@economist_surrogates_2025]. 
 
+## Das Kindsverhältnis zur Ehefrau der Mutter
+
+Art. 255a ZGB regelt die Elternschaft der Ehefrau der Mutter. Ist die
+Mutter zum Zeitpunkt der Geburt mit einer Frau verheiratet, so gilt die
+Ehefrau der Mutter als der andere Elternteil. Allerdings nur -- und das
+ist eine wesentliche Einschränkung -- sofern das Kind nach den Vorgaben
+des Bundesgesetzes über die medizinisch unterstützte Fortpflanzung
+(Fortpflanzungsmedizingesetz,
+[FMedG](https://www.fedlex.admin.ch/eli/cc/2000/554/de)) entstanden ist.
+Im Falle einer privaten Samenspende kann das Kindsverhältnis zur Ehefrau
+der Mutter nur durch Stiefkindadoption hergestellt werden[@buechler2025,
+S. 188]. 
+
 ## Das Kindsverhältnis zum Vater
 
 Beim Vater ist die Situation etwas komplizierter. Ohne vertiefte
