@@ -2,3 +2,4 @@
 /.quarto/
 *.pdf
 **/*.quarto_ipynb
+referenzen.bib
