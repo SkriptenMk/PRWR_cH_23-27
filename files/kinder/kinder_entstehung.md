@@ -11,7 +11,7 @@ rechtliche Zuordnung eines Kindes zu seinen Eltern geklärt[^1]. Diese
 Zuordnung wird in der Regel mit der biologischen Elternschaft
 übereinstimmen, zwingend ist dies aber nicht[^2].
 
-#### Mutter
+## Das Kindsverhältnis zur Mutter
 
 Die Zuordnung eines Kindes zu seiner Mutter ist einfach. Nach [Art. 252
 Abs. 1
