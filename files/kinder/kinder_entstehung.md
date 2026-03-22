@@ -1,10 +1,10 @@
 ---
-title: "Entstehung des Kindesverhältnisses"
-weight: 11
-bookToc: false
+title: "Die Entstehung des Kindsverhältnisses"
+author: "Jacques Mock Schindler"
+date: 2026-03-22
+date-format: "DD. MMMM YYYY"
+lang: de-CH
 ---
-
-## Die Entstehung des Kindesverhältnisses
 
 Mit der Frage nach der Entstehung des Kindesverhältnisses wird die
 rechtliche Zuordnung eines Kindes zu seinen Eltern geklärt[^1]. Diese
