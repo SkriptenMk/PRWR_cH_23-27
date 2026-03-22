@@ -38,7 +38,7 @@ Abs. 1 OR nichtig[@buechler2025, S. 186 f]. Ob dies im besten Interesse
 aller Beteiligten ist, darf in Frage gesetellt
 werden[@economist_surrogates_2025]. 
 
-#### Vater
+## Das Kindsverhältnis zum Vater
 
 Beim Vater ist die Situation etwas komplizierter. Ohne vertiefte
 biologische Abklärung kann die Vaterschaft nur vermutet oder autoritativ
@@ -65,7 +65,7 @@ Kindesverhältnis zur Mutter besteht; sei es weil sie ledig ist, sei es,
 dass das Kindesverhältnis zum Ehemann durch Anfechtung beseitig worden
 ist[@familienrecht_zgb, N 16.48 und 16.62].
 
-#### Anfechtung der Vaterschaftsvermutung
+## Anfechtung der Vaterschaftsvermutung
 
 Zur Anfechtung der Vaterschaftsvermutung ist nach [Art. 256 Abs. 1
 Ziff. 1
@@ -81,7 +81,7 @@ biologische Vater hat keine Möglichkeit seine Vaterschaft rechtlich
 festsellen zu lassen[@bge108II344, E. 1 a); @familienrecht_zgb, N 16.35].
 Damit soll der Familienfrieden gewahrt werden[@bge108II344, E. 2 a)].
 
-#### Adoption
+## Adoption
 
 Bei der Adoption handelt es sich um die Begründung des
 Kindesverhältnisses durch einen Rechtsakt. Die Adoption tritt an die
