@@ -75,11 +75,14 @@ im Weg stehen würde[@bge126III404, E. 4 h); @bge128III1, E. 3 a cc].
 Die Scheidung beendet die Ehe. Diese simple Feststellung erfordert
 allerdings einige Präzisierungen.
 
--   *Zivilstand*: geschieden nicht ledig ([Art. 8 lit. f Ziff. 1 ZStV](https://www.fedlex.admin.ch/eli/cc/2004/362/de#art_8));
+-   *Zivilstand*: geschieden nicht ledig ([Art. 8 lit. f Ziff. 1
+    ZStV](https://www.fedlex.admin.ch/eli/cc/2004/362/de#art_8)); 
 
 -   *Verwandtschaft*: die Schwägerschaft bleibt auch nach der Scheidung
-    bestehen ([Art. 21 Abs. 2 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_21); dies vor allem, damit in Prozessen die
-    entsprechenden Befangenheitsgründe geltend gemacht werden können);
+    bestehen ([Art. 21 Abs. 2
+    ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_21);
+    dies vor allem, damit in Prozessen die entsprechenden
+    Befangenheitsgründe geltend gemacht werden können); 
 
 -   *Name und Bürgerrecht*: der Ehegatte, der den Namen bei der
     Eheschliessung geändert hat, behält diesen; das Kantons- und
