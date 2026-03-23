@@ -1,10 +1,10 @@
 ---
-title: "Die Eheschscheidung"
-weight: 6
-bookToc: false
+title: "Die Ehescheidung"
+author: "Jacques Mock Schindler"
+date: 2026-03-22
+date-format: "DD. MMMM YYYY"
+lang: de-CH
 ---
-
-### Die Ehescheidung
 
 Die Scheidung führt zur Auflösung der Ehe.
 
