@@ -15,7 +15,7 @@ der Ehegatten zentrale Bedeutung zumisst[^1], wird die Scheidung auf
 gemeinsames Begehren als ordentlichen Scheidungsgrund[^2] und die
 Scheidung auf Klage als ausserordentlichen Scheidungsgrund bezeichnet.
 
-#### Die Scheidung auf gemeinsames Begehren
+## Die Scheidung auf gemeinsames Begehren
 
 Das Schweizerische Scheidungsrecht ist verschuldensunabhängig[^3]. Das
 kommt im [Art. 111 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_111) zum Ausdruck. Die Ehegatten verlangen in diesen
@@ -29,7 +29,7 @@ strittig sind. In diesen muss allerdings das Gericht eine Entscheidung
 über die Nebenfolgen der Scheidung[^5], wirtschaftliche Fragen und
 allenfalls elterliche Sorge treffen.
 
-#### Die Scheidung auf Klage
+## Die Scheidung auf Klage
 
 Falls sich ein Ehepartner der Scheidung widersetzt, kann die Ehe nach
 [Art. 114 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_114) nach einer zweijährigen tatsächlichen Trennung auch gegen
@@ -63,7 +63,7 @@ Bundesgericht lehnt die Bildung von Fallgruppen, welche die
 Unzumutbarkeit begründeten, ab, weil dies der Würdigung des Einzelfalles
 im Weg stehen würde[^13].
 
-#### Scheidungsfolgen
+## Scheidungsfolgen
 
 Die Scheidung beendet die Ehe. Diese simple Feststellung erfordert
 allerdings einige Präzisierungen.
