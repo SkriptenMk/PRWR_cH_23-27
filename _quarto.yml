@@ -31,6 +31,9 @@ book:
         - files/eherecht/ordentlicher_gueterstand.md
         - files/eherecht/guetergemeinschaft.md
         - files/eherecht/guetertrennung.md
+    - part: "Die Ehescheidung"
+      chapters:
+        - files/eherecht/scheidung.md
     - part: "Die Entstehung des Kindsverhältnisses"
       chapters:
         - files/kinder/kinder_entstehung.md
