@@ -18,9 +18,11 @@ Scheidung auf Klage als ausserordentlichen Scheidungsgrund bezeichnet.
 
 ## Die Scheidung auf gemeinsames Begehren
 
-Das Schweizerische Scheidungsrecht ist verschuldensunabhängig[^3]. Das
-kommt im [Art. 111 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_111) zum Ausdruck. Die Ehegatten verlangen in diesen
-Fällen gemeinsam die Scheidung und das Gericht hat sich lediglich davon
+Wie das der Titel des ordentlichen Scheidungsgrundes zum Ausdruck
+bringt, ist das Schweizerische Scheidungsrecht
+verschuldensunabhängig[@familienrecht_zgb, N 10.03; @geiser_vor_111, Vor 
+Art. 111 ZGB N 2 Al. 5]. In diesen Fällen verlangen die Ehegatten
+gemeinsam die Scheidung und das Gericht hat sich lediglich davon 
 zu überzeugen, dass die Vereinbarung über die Scheidung reiflich
 überlegt ist und auf dem freien Willen der Parteien beruht[@gloor_111,
 N 7].
