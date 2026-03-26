@@ -34,7 +34,7 @@ book:
     - part: "Die Ehescheidung"
       chapters:
         - files/eherecht/scheidung.md
-    - part: "Die Entstehung des Kindsverhältnisses"
+    - part: "Das Kindsverhältnis"
       chapters:
         - files/kinder/kinder_entstehung.md
         
