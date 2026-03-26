@@ -128,36 +128,3 @@ geschiedenen Eltern grundsätzlich gemeinsam zu[@familienrecht_zgb,
 ZGB, N 17.76; @bbl2011_9077, Ziff. 1.5.1; @geiser_gerichte, S. 1102 ff. (kritisch)].
 
 
-
-
-[^1]: zur Kritik am neuen Sorgerecht vgl. Geiser, Thomas. „Umsetzung der gemeinsamen Sorge durch die Gerichte“. Aktuelle juristische Praxis 8/2015 (2015), S. 1102 ff.
-
-[^2]: Hausheer, Heinz, Thomas Geiser, und Regina Elisabeth Aebi-Müller.
-    Das Familienrecht des Schweizerischen Zivilgesetzbuches. 5.,
-    Vollständig überarbeitete und Aktualisierte Auflage. Stämpflis
-    juristische Lehrbücher. Bern: Stämpfli, 2014 (Zitiert Familienrecht
-    ZGB),  N 17.06.
-
-[^3]: [BGE 133 III 305, E. 3.3.3](http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F133-III-305%3Ade&lang=de&type=show_document)
-
-[^4]: Familienrecht ZGB, N 17.25.
-
-[^5]: Breitschmid, Peter. „Die Wirkung des Kindesverhältnisses: Zweiter
-    Abschnitt: Die Unterhaltspflicht der Eltern“. In Zivilgesetzbuch I,
-    herausgegeben von Heinrich Honsell, Nedim Peter Vogt, und Thomas
-    Geiser, 5. Auflage. Basler Kommentar. Basel: Helbing Lichtenhahn
-    Verlag, 2014 (Zitiert Basler Kommentar Breitschmid),  aArt. 276 ZGB N 21.
-
-[^6]: Basler Kommentar Breitschmid, Art. 277 ZGB N 10.
-
-[^7]: Basler Kommentar Breitschmid, Art. 277 ZGB, N 12.
-
-[^8]: Familienrecht ZGB, N 17.49.
-
-[^9]: Basler Kommentar Breitschmid, Art. 277 ZGB N 18.
-
-[^10]: Familienrecht ZGB, N 17.64.
-
-[^11]: Familienrecht ZGB, N 17.76; Botschaft vom 16. November 2011 zu
-    einer Änderung des Schweizerischen Zivilgesetzbuches (Elterliche
-    Sorge), [BBl 2011 9077](https://bundesblatt.weblaw.ch/?method=dump&bbl_id=64133&format=pdf) ff. Ziff. 1.5.1.
