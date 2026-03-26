@@ -34,9 +34,10 @@ book:
     - part: "Die Ehescheidung"
       chapters:
         - files/eherecht/scheidung.md
-    - part: "Die Entstehung des Kindsverhältnisses"
+    - part: "Das Kindsverhältnis"
       chapters:
         - files/kinder/kinder_entstehung.md
+        - files/kinder/kinder_wirkung.md
         
   repo-url: https://github.com/SkriptenMk/PRWR_cH_23-27
   repo-actions: [issue]
