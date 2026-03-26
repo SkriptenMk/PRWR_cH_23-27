@@ -1,10 +1,11 @@
 ---
-title: "Die Wirkungen des des Kindesverhältnisses"
-weight: 12
-bookToc: false
+title: "Die Wirkung des Kindsverhältnisses"
+author: "Jacques Mock Schindler"
+date: 2026-03-26
+date-format: "DD. MMMM YYYY"
+lang: de-CH
 ---
 
-## Die Wirkungen des Kindesverhältnisses
 
 Das Kindesverhältnis hat mehrere Rechtsfolgen. In der Reihenfolge des
 Gesetzes sind dies die Gemeinschaft der Eltern und Kinder, die
