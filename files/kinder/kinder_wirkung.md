@@ -14,7 +14,7 @@ Kindesvermögen. Ebenfalls im achten Titel geregelt aber inhaltlich nicht
 direkt eine Wirkung des Kindesverhältnisses sind die Regeln zu den
 Minderjährigen unter Vormundschaft.
 
-#### Gemeinschaft der Eltern und der Kinder
+## Gemeinschaft der Eltern und der Kinder
 
 Die Gemeinschaft von Eltern und Kind hat Folgen für den Familiennamen,
 den Wohnsitz und das Bürgerrecht des Kindes.
@@ -68,7 +68,7 @@ ist. Die Eltern sind für das Wohlergehen ihrer Kinder verantwortlich.
 Zudem schulden sich Eltern und Kinder gegenseitige Rücksichtnahme bei
 der Ausübungen ihrer Rechte und Pflichten[^4].
 
-#### Unterhaltspflicht der Eltern
+## Unterhaltspflicht der Eltern
 
 Die Eltern sind nach [Art. 276
 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_276)
@@ -112,7 +112,7 @@ Einschränkungen im Einzelnen:
     persönlicher Austausch über die Ausbildungspläne und -erfolge
     möglich ist[^9].
 
-#### Elterliche Sorge
+## Elterliche Sorge
 
 Die elterliche Sorge dient dem Wohl des Kindes und wird grundsätzlich
 durch beide Eltern gemeinsam ausgeübt. Ziel dieses Pflichtrechts ist es,
