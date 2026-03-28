@@ -11,3 +11,7 @@ seine Erben. Aus dieser Umschreibung ergeben sich zwei Fragestellungen:
 
 1. Wie setzt sich das Vermögen des Erblassers zusammen?
 2. Wer sind die Erben?
+
+An dieser Stelle muss festgehalten werden, dass beide Fragen
+grundsätzlich erst zum Zeitpunkt des Todes des Erblassers beantwortet
+werden können. Erst sterben heisst erben[@buewo200812].
