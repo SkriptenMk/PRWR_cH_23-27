@@ -15,3 +15,14 @@ seine Erben. Aus dieser Umschreibung ergeben sich zwei Fragestellungen:
 An dieser Stelle muss festgehalten werden, dass beide Fragen
 grundsätzlich erst zum Zeitpunkt des Todes des Erblassers beantwortet
 werden können. Erst sterben heisst erben[@buewo200812].
+
+## Die Erbmasse
+
+Die erste Frage, ist die Frage nach der Erbmasse. So wird das zu
+vererbende Vermögen bezeichnet.
+
+Die Erbmasse ist das gesamte Vermögen des Erblassers zum Zeitpunkt
+seines Todes. Ist der Erblasser unverheiratet, muss zu diesem Zweck das
+Vermögen lediglich festgestellt werden. Bei einem verheirateten
+Erblasser muss zur Berechnung der Erbmasse die güterrechtliche
+Auseinandersetzung vorgenommen werden.
