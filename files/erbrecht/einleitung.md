@@ -7,7 +7,16 @@ lang: de-CH
 ---
 
 Das Erbrecht regelt die Übertragung des Vermögens des Erblassers auf
-seine Erben. Aus dieser Umschreibung ergeben sich zwei Fragestellungen: 
+seine Erben. 
+Im Schweizerischen Erbrecht gilt das Prinzip der Universalsukzession,
+das heisst der Gesamtrechtsnachfolge. Die Erben treten
+vermögensrechtlich in die Rechtsstellung des Erblassers ein. Die Erben
+übernehmen also Guthaben und Schulden des Erblassers. Wenn ein
+Erblasser mehrere Erben hinterlässt, so treten sie bis zu Teilung der
+Erbschaft gemeinsam, als Erbengemeinschaft, in die Rechtsstellung des
+Erblassers ein. Die Erbengemeinschaft ist in diesem Sinne eine
+spezialgesetzliche Gesellschaftsform.
+Aus dieser Umschreibung ergeben sich zwei Fragestellungen: 
 
 1. Wie setzt sich das Vermögen des Erblassers zusammen?
 2. Wer sind die Erben?
