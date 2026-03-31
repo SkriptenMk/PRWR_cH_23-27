@@ -5,3 +5,6 @@
 !referenzen.bib
 *.bib
 *.json
+*.aux
+*.log
+*.dvi
