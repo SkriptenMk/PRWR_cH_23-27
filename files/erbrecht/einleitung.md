@@ -1,5 +1,5 @@
 ---
-title: "Einleitung"
+title: "Erbrecht"
 author: "Jacques Mock Schindler"
 date: 2026-03-28
 date-format: "DD. MMMM YYYY"
