@@ -7,8 +7,8 @@ lang: de-CH
 ---
 
 Das Gesetz hält im Grundsatz fest, wer die Erben des Erblassers sind.
-Die Grundsätzliche Regelung lässt dem  Erblasser jedoch einen gewissen
-Spielraum innerhalb dessen er von der gesetzlichen Standardregeleung
+Die grundsätzliche Regelung lässt dem  Erblasser jedoch einen gewissen
+Spielraum innerhalb dessen er von der gesetzlichen Standardregelung
 abweichen kann.
 
 ## Die gesetzlichen Erben
@@ -41,7 +41,7 @@ Kinder des Erblassers erben je gleich viel (Art. 457 Abs. 2 ZGB; vgl.
 
 ![Der Erblasser hinterlässt drei Kinder.](drei_kinder.svg){#fig-drei_kinder}
 
-Ist ein Kind des Erblassers vorverstorben und hinterlässt eigene
+Ist ein Kind des Erblassers vorverstorben und hinterlässt es eigene
 Nachkommen, so teilen sich diese den Erbanspruch des vorverstorbenen
 Kindes (vgl. @fig-vorverstorbenes_kind).
 
