@@ -1,7 +1,7 @@
 ---
-title: "Die gesetzlichen Erben"
+title: "Die Erben"
 author: "Jacques Mock Schindler"
-date: 2026-03-28
+date: 2026-03-31
 date-format: "DD. MMMM YYYY"
 lang: de-CH
 ---
