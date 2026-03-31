@@ -34,3 +34,5 @@ seines Todes. Ist der Erblasser unverheiratet, muss zu diesem Zweck das
 Vermögen lediglich festgestellt werden. Bei einem verheirateten
 Erblasser muss zur Berechnung der Erbmasse die güterrechtliche
 Auseinandersetzung vorgenommen werden.
+
+{{< include erben.md >}}
