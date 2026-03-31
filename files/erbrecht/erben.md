@@ -8,7 +8,7 @@ lang: de-CH
 
 Das Gesetz hält im Grundsatz fest, wer die Erben des Erblassers sind.
 Die grundsätzliche Regelung lässt dem  Erblasser jedoch einen gewissen
-Spielraum innerhalb dessen er von der gesetzlichen Standardregelung
+Spielraum, innerhalb dessen er von der gesetzlichen Standardregelung
 abweichen kann.
 
 ## Die gesetzlichen Erben
@@ -30,7 +30,7 @@ hinterlassen, erbt der grosselterliche Stamm (drittes Parentel), d.h.
 die Grosseltern und deren Nachkommen (Art. 459 ZGB).  
 In Aufweichung dieser streng an die Blutsverwandtschaft gekoppelten
 Erbfolge, ist daneben auch der überlebende Ehegatte oder eingetragene
-Partner bzw. die eingetragene Partnerin ein gesetlicher Erbe (Art. 462
+Partner bzw. die eingetragene Partnerin ein gesetzlicher Erbe (Art. 462
 ZGB). 
 
 Der gesetzliche Erbanspruch richtet sich nach dem Verwandtschaftsgrad.
@@ -48,14 +48,14 @@ Kindes (vgl. @fig-vorverstorbenes_kind).
 ![Der Erblasser hinterlässt drei Kinder, wobei eines vorverstorben ist.](vorverstorbenes_kind.svg){#fig-vorverstorbenes_kind}
 
 Falls die
-Erbschaft an den elternlichen Stamm geht, erben die Eltern je gleich
+Erbschaft an den elterlichen Stamm geht, erben die Eltern je gleich
 viel (Art. 458 Abs. 2 ZGB). Die gleiche Regel gilt für den
 grosselterlichen Stamm (Art. 459 Abs. 2 ZGB).  
 Hat der Erblasser einen überlebenden Ehegatten (oder eingetrangenen
 Partner bzw. eingetragene Partnerin), so unterscheidet sich dessen
-Eranteil in Abhängigkeit davon, mit wem er zu teilen hat. Muss er mit
+Erbanteil in Abhängigkeit davon, mit wem er zu teilen hat. Muss er mit
 Nachkommen teilen, ist sein Anspurch die Hälfte der Erbmasse (Art. 462
-Ziff. 1 ZGB). Muss der Überlebende Ehegatte mit Erben des elterlichen
+Ziff. 1 ZGB). Muss der überlebende Ehegatte mit Erben des elterlichen
 Stammes teilen, steht ihm drei Viertel der Erbmasse zu (Art. 462 Ziff. 2
 ZGB). In allen anderen Fällen, erhält er die ganze Erbmasse (Art. 462
 Ziff. 3 ZGB).
@@ -79,7 +79,7 @@ die Nutzniessung an der Erbschaft der gemeinsamen Nachkommen einräumen
 (Art. 473 ZGB). Dies greift nicht direkt in die Pflichtteile der Kinder
 ein, fällt ihnen die Erbschaft doch lediglich zu einem späteren
 Zeitpunkt zu. Aus diesem Grund kann von dieser Möglichkeit
-ausschliesslich gegenüber gemeinsamen Nachkommen gebrauch gemacht
+ausschliesslich gegenüber gemeinsamen Nachkommen Gebrauch gemacht
 werden.
 
 ## Verfügungen von Todes wegen
@@ -92,12 +92,12 @@ Dazu stellt das Gesetz die folgenden Formen zur Verfügung:
   
   Eine öffentliche Verfügung (öffentliches Testament) ist eine
   öffentliche Urkunde. Das heisst, für die Errichtung braucht es zwei
-  Zeugen sowie eine öffentliche Urkundsperson. Diese Form der
+  Zeugen, sowie eine öffentliche Urkundsperson. Diese Form der
   letzwilligen Verfügung stellt sicher, dass die Verfügung nicht
   verloren geht. Dafür ist deren Inhalt einer grösseren Gruppe von
   Personen bekannt.
 
-* Die Eigenhändige Verfügung (Art. 505 ZGB)
+* Die eigenhändige Verfügung (Art. 505 ZGB)
   
   Das eigenhändige Testament muss vom Erblasser von A bis Z von Hand
   niedergeschrieben und unterschrieben werden. Da eigenhändige
@@ -114,16 +114,16 @@ Dazu stellt das Gesetz die folgenden Formen zur Verfügung:
   Zeugen müssen den Inhalt des mündlichen Testaments umgehend einer
   Gerichtsbehörde mitteilen. Das Nottestament verliert seine Gültigkeit,
   wenn es dem Erblasser nachträglich möglich wird, seinen letzten Willen
-  in eine ordentliche Form zu überführen, d.h. wenn er die Todesgefahr
-  überlelbt. 
+  in eine ordentliche Form zu überführen, d.h. wenn er die Situation, in
+  welcher er in Todesgefahr schwebte, überlelbt. 
 
 * Der Erbvertrag (Art. 512 ZGB)
   
   Ein Erbvertrag ist ein zweiseitiger Vertrag. Das bedeutet, er wird
   zwischen dem Erblasser und seinen Erben als Parteien geschlossen. Wie
   jeder andere Vertrag erfordert er eine gegenseitige übereinstimmende
-  Willenserklärung. Das beduetet im Umkehrschluss, er kann auch nur in
-  genseitigem Einverständnis wieder aufgelöst werden.
+  Willenserklärung. Das bedeutet im Umkehrschluss, er kann auch nur in
+  gegenseitigem Einverständnis wieder aufgelöst werden.
 
   Weil ein Erbvertrag so weitgehende Konsequenzen hat, unterliegt er den
-  gleichen Formerfordernissen, wie das öffentliche Testament.
+  gleichen Formerfordernissen wie das öffentliche Testament.
