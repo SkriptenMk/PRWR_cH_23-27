@@ -59,3 +59,26 @@ Ziff. 1 ZGB). Muss der Überlebende Ehegatte mit Erben des elterlichen
 Stammes teilen, steht ihm drei Viertel der Erbmasse zu (Art. 462 Ziff. 2
 ZGB). In allen anderen Fällen, erhält er die ganze Erbmasse (Art. 462
 Ziff. 3 ZGB).
+
+## Verfügungsfreiheit
+
+Der Erblasser kann vor seinem Tod unter Berücksichtigung der sog.
+Pflichtteile über sein Vermögen von Todes wegen verfügen. Die
+Pflichtteile betragen jeweils die Hälfte des gesetzlichen Erbanspruchs
+(vgl. @fig-pflichtteile).
+
+![Ein Beispiel für die Berechnung der Pflichtteile. Der Pflichtteil ist
+der Bruch unterhalb der geschweiften
+Klammer.](pflichtteile.svg){#fig-pflichtteile}
+
+Mit anderen Worten, der Erblasser kann über die Hälfte seines Vermögens
+von Todes wegen verfügen.
+
+Um den überlebenden Ehegatten besser abzusichern, kann ihm der Erblasser
+die Nutzniessung an der Erbschaft der gemeinsamen Nachkommen einräumen
+(Art. 473 ZGB). Dies greift nicht direkt in die Pflichtteile der Kinder
+ein, fällt ihnen die Erbschaft doch lediglich zu einem späteren
+Zeitpunkt zu. Aus diesem Grund kann von dieser Möglichkeit
+ausschliesslich gegenüber gemeinsamen Nachkommen gebrauch gemacht
+werden.
+
