@@ -20,6 +20,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5                          # v5: Node.js 24
+        
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin  
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
