@@ -56,7 +56,8 @@ der Güterstand der Errungenschaftsbeteiligung durch das Ende der Ehe
 oder durch die Vereinbarung eines anderen Güterstandes aufgehoben.
 
 Die güterrechtliche Auseinandersetzung erfolgt in vier
-Schritten[@familienrecht_zgb, N 12.156]:
+Schritten[@familienrecht_zgb, N 12.156] (eine schematische Darstellung
+der Vorgehensweise findet sich in @fig-auseinandersetzung):
 
 
 1. Trennung des Vermögens von Mann und Frau;
@@ -100,3 +101,4 @@ Schritten[@familienrecht_zgb, N 12.156]:
    ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_215)
    sind die gegenseitigen Forderungen miteinander zu verrechnen.
 
+![Eine Schematsiche Darstellung der Güterrechtlichen Auseinandersetzung.](gueterrechltiche_auseinandersetzung.svg){#fig-auseinandersetzung}
