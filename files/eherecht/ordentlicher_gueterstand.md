@@ -100,3 +100,4 @@ Schritten[@familienrecht_zgb, N 12.156]:
    ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_215)
    sind die gegenseitigen Forderungen miteinander zu verrechnen.
 
+![Eine Schematsiche Darstellung der Güterrechtlichen Auseinandersetzung.](gueterrechltiche_auseinandersetzung.svg){#fig-auseinandersetzung}
